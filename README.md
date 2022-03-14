@@ -1,7 +1,7 @@
 # Seonghyeon Moon, Ph.D.
 
 <div align="center">
-Ph.D. | Construction Management
+Ph.D. | Construction Management  
 Postdoctoral Research Fellow | Department of Civil and Environmental Engineering
 Senior Researcher | Institute of Construction and Environmental Engineering
 Seoul National University
