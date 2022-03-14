@@ -2,15 +2,10 @@
 
 <div align="center">
 Ph.D. | Construction Management
-
 Postdoctoral Research Fellow | Department of Civil and Environmental Engineering
-
 Senior Researcher | Institute of Construction and Environmental Engineering
-
 Seoul National University
-
 35-219, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, South Korea
-
 T +82 2 880 7370 | M +82 10 3054 1528 | E blank54@snu.ac.kr | G github.com/blank54
 </div>
 
