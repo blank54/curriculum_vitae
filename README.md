@@ -1,11 +1,11 @@
 # Seonghyeon Moon, Ph.D.
 
-Ph.D. (Construction Management)
-Postdoctoral Research Fellow @Department of Civil and Environmental Engineering
-Senior Researcher @Institute of Construction and Environmental Engineering
+Ph.D. (Construction Management)  
+Postdoctoral Research Fellow @Department of Civil and Environmental Engineering  
+Senior Researcher @Institute of Construction and Environmental Engineering  
 Seoul National University
 
-35-219, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, South Korea
+35-219, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, South Korea  
 **T** +82 2 880 7370 | **M** +82 10 3054 1528  
 **E** blank54@snu.ac.kr | **G** github.com/blank54
 
@@ -22,85 +22,99 @@ Seoul National University
 - Python / MATLAB / R / Unity
 
 ## EDUCATION
-03/2015 – 08/2020   **Ph.D.** in Civil and Environmental Engineering (Construction Management)  
-                    Seoul National University, Seoul, South Korea (Advisor: **Dr. Seokho Chi**)  
-                    Dissertation: "Automated Construction Specification Review based on Semantic Textual Analysis."  
-03/2011 – 02/2015   B.E. in Industrial Engineering
-                    Seoul National University, Seoul, South Korea
+03/2015 – 08/2020  
+**Ph.D.** in Civil and Environmental Engineering (Construction Management)  
+Seoul National University, Seoul, South Korea (Advisor: **Dr. Seokho Chi**)  
+Dissertation: "Automated Construction Specification Review based on Semantic Textual Analysis."
 
-<!-- PROFESSIONAL EXPERIENCE
-09/2020 – Present   Postdoctoral Research Fellow, Construction !nnovation Laboratory, Seoul National University, Seoul, Korea
-09/2020 – Present   Senior Researcher, Institute of Construction and Environmental Engineering Seoul National University, Seoul, Korea
-09/2014 – 02/2015   Undergraduate Internship, Construction !nnovation Laboratory, Seoul National University, Seoul, South Korea
+03/2011 – 02/2015  
+B.E. in Industrial Engineering  
+Seoul National University, Seoul, South Korea
 
+## PROFESSIONAL EXPERIENCE
+09/2020 – Present  
+Postdoctoral Research Fellow, Construction !nnovation Laboratory, Seoul National University, Seoul, Korea
 
-HONORS AND AWARDS
-2021    Outstanding Paper Award, Korea Institute of Construction Engineering and Management 2021 Convention "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method (DPPM)."
-2019    Outstanding Paper Award, Korea Institute of Construction Engineering and Management 2019 Convention "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)."
-2019    Outstanding Paper Award, Korean Society of Road Engineers 2019 Convention "Automatic Comparative Analysis of Construction Specifications Using Text-mining Based on Artificial Intelligence."
-2018    Special Award, 2018 Seoul National University X-Corps Practice Research Team
-2018    Outstanding Paper Award, Korean Society of Civil Engineers 2018 Convention "Non-compliance Specification Checking Based on Text-Mining Construction Standard Analysis."
-2016 – 2020 Brain Korea 21 Scholarship, Ministry of Education, Korea ($34,600)
+09/2020 – Present  
+Senior Researcher, Institute of Construction and Environmental Engineering Seoul National University, Seoul, Korea
 
-PUBLICATIONS
+09/2014 – 02/2015  
+Undergraduate Internship, Construction !nnovation Laboratory, Seoul National University, Seoul, South Korea
+
+## HONORS AND AWARDS
+2021    **Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2021 Convention "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method (DPPM)."  
+2019    **Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2019 Convention "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)."  
+2019    **Outstanding Paper Award**, Korean Society of Road Engineers 2019 Convention "Automatic Comparative Analysis of Construction Specifications Using Text-mining Based on Artificial Intelligence."  
+2018    **Special Award**, 2018 Seoul National University X-Corps Practice Research Team  
+2018    **Outstanding Paper Award**, Korean Society of Civil Engineers 2018 Convention  "Non-compliance Specification Checking Based on Text-Mining Construction Standard Analysis."
+2016 – 2020 **Brain Korea 21 Scholarship**, Ministry of Education, Korea ($34,600)
+
+## PUBLICATIONS
 - Refereed Journal Articles (International)
-[9] Lee, G., Moon, S., and Chi, S.* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." Engineering, Construction and Architectural Management, submitted on 10/24/2021. [Under Review, Q1, SCI-E, 2021 IF 3.531]
-[8] Moon, S., Lee, G., and Chi, S.* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." Advanced Engineering Informatics, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 5.603]
-[7]     Chi, S., Moon, S., and Kim, D.Y.* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." KSCE Journal of Civil Engineering, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q2, SCI-E, 2021 IF 1.805]
-[6]     Moon, S., Lee, G., and Chi, S.* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." Automation in Construction, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2021 IF 7.700]
-[5]     Moon, S., Lee, G., Chi, S.*, and Oh, H. (2021). "Automated Construction Specification Review with Named Entity Recognition Using Natural Language Processing." Journal of Construction Engineering and Management, 147(1), 04020147. DOI: 10.1061/(asce)co.1943-7862.0001953. [Q1, SCI-E, 2021 IF 3.951]
-[4]     Moon, S., Chung, S., and Chi, S.* (2020). "Bridge Damage Recognition from Inspection Reports Using NER Based on Recurrent Neural Network with Active Learning." Journal of Performance of Constructed Facilities, 34(6), 04020119. DOI: 10.1061/(ASCE)CF.1943-5509.0001530. [Q1, SCI-E, 2021 IF 2.372]
-[3]     Moon, S., Shin, Y., Hwang, B.G., and Chi, S.* (2018). "Document Management System Using Text Mining for Information Acquisition of International Construction." KSCE Journal of Civil Engineering, 22(12), 4791-4798. DOI: 10.1007/s12205-018-1528-y. [Q2, SCI-E, 2021 IF 1.805]
-[2]     Moon, S., Chi, S., and Kim, D.Y.* (2018). "Predicting Construction Cost Index Using the Autoregressive Fractional Integrated Moving Average (ARFIMA) Model." Journal of Management in Engineering, 34(2), 04017063. DOI: 10.1061/(asce)me.1943-5479.0000571. [Q1, SCI-E, 2021 IF 6.853]
-[1]     Zhang, H., Chi, S.*, Yang, J., Nepal, M., and Moon, S. (2017). "Development of a Safety Inspection Framework on Construction Sites Using Mobile Computing." Journal of Management in Engineering, 33(3), 04016048. DOI: 10.1061/(ASCE)ME.1943-5479.0000495. [Q1, SCI-E, 2021 IF 6.853]
-*Corresponding Author
+[9] Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_, submitted on 10/24/2021. [_Under Review_, Q1, SCI-E, 2021 IF 3.531]  
+[8] **Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 5.603]  
+[7] Chi, S., **Moon, S.**, and Kim, D.Y.\* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." _KSCE Journal of Civil Engineering_, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q2, SCI-E, 2021 IF 1.805]  
+[6] **Moon, S.**, Lee, G., and Chi, S.\* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." _Automation in Construction_, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2021 IF 7.700]  
+[5] **Moon, S.**, Lee, G., Chi, S.\*, and Oh, H. (2021). "Automated Construction Specification Review with Named Entity Recognition Using Natural Language Processing." _Journal of Construction Engineering and Management_, 147(1), 04020147. DOI: 10.1061/(asce)co.1943-7862.0001953. [Q1, SCI-E, 2021 IF 3.951]  
+[4] **Moon, S.**, Chung, S., and Chi, S.\* (2020). "Bridge Damage Recognition from Inspection Reports Using NER Based on Recurrent Neural Network with Active Learning." _Journal of Performance of Constructed Facilities_, 34(6), 04020119. DOI: 10.1061/(ASCE)CF.1943-5509.0001530. [Q1, SCI-E, 2021 IF 2.372]  
+[3] **Moon, S.**, Shin, Y., Hwang, B.G., and Chi, S.\* (2018). "Document Management System Using Text Mining for Information Acquisition of International Construction." _KSCE Journal of Civil Engineering_, 22(12), 4791-4798. DOI: 10.1007/s12205-018-1528-y. [Q2, SCI-E, 2021 IF 1.805]  
+[2] **Moon, S.**, Chi, S., and Kim, D.Y.\* (2018). "Predicting Construction Cost Index Using the Autoregressive Fractional Integrated Moving Average (ARFIMA) Model." _Journal of Management in Engineering_, 34(2), 04017063. DOI: 10.1061/(asce)me.1943-5479.0000571. [Q1, SCI-E, 2021 IF 6.853]  
+[1] Zhang, H., Chi, S.\*, Yang, J., Nepal, M., and **Moon, S.** (2017). "Development of a Safety Inspection Framework on Construction Sites Using Mobile Computing." _Journal of Management in Engineering_, 33(3), 04016048. DOI: 10.1061/(ASCE)ME.1943-5479.0000495. [Q1, SCI-E, 2021 IF 6.853]  
+<div align='right'>
+\*Corresponding Author
+</div>
 
 - Refereed Journal Articles (Domestic)
-[2]     Chung, S., Moon, S., and Chi, S.* (2018). "Bridge Damage Factor Recognition from Inspection Reports Using Deep Learning." KSCE Journal of Civil and Environmental Engineering Research, 38(4), 621-625.
-[1]     Moon, S., Chung, S., and Chi, S.* (2018). "Topic Modeling of News Article about International Construction Market Using Latent Dirichlet Allocation." KSCE Journal of Civil and Environmental Engineering Research, 38(4), 595-599.
-*Corresponding Author
-
-- International Journal Articles under Review
-[1]     Lee, G., Moon, S., and Chi, S.* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." Engineering, Construction and Architectural Management, submitted on 10/24/2021. [Under Review, Q1, SCI-E, 2021 IF 3.531]
-*Corresponding Author
+[2] Chung, S., **Moon, S.**, and Chi, S.\* (2018). "Bridge Damage Factor Recognition from Inspection Reports Using Deep Learning." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 621-625.  
+[1] **Moon, S.**, Chung, S., and Chi, S.\* (2018). "Topic Modeling of News Article about International Construction Market Using Latent Dirichlet Allocation." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 595-599.  
+<div align='right'>
+\*Corresponding Author
+</div>
 
 - Conference Proceedings
-[17] Lee, G., Moon, S., Hwang, J., and Chi, S.* (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." 29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022. [Under Review]
-[16]    Choi, H., Moon, S., and Chi, S.* (2021). "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method(DPPM)." 2021 KICEM Conference, Gyeongju, South Korea.
-[15]    Moon, S., Chung, S., Lee, G., and Chi, S.* (2021). "Provision Classification for Automated Construction Specification Review using Bidirectional Encoder Representations from Transformer (BERT)." 2021 KICEM Conference, Gyeongju, South Korea.
-[14]    Lee, G., Moon, S., Won, D., Yoon S., and Chi, S. (2021). "Real-time Construction Site Noise Mapping System Based on Sensing Data." 47th KSCE 2021 Civil Expo and Conference, Gwangju, South Korea.
-[13] Won, D., Moon, S., Lee, G., Yoon S., and Chi, S. (2021). "Automated Identification of Earthmoving Ground Surface Information from UAV Images." 47th KSCE 2021 Civil Expo and Conference, Gwangju, South Korea.
-[12]    Lee, G., Moon, S., and Chi, S.* (2020). "Reference Identification of Sub-categories in Construction Specifications Using the Deep Structured Semantic Model." 46th KSCE 2020 Civil Expo and Conference, Jeju, South Korea.
-[11]    Park, C., Moon, S., Chi, S.*, and Oh, H. (2019). "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)." 2019 KICEM Conference, Goyang, South Korea.
-[10]    Lee, H., Oh, H., Moon, S., and Chi, S.* (2019). "Automatic Comparative Analysis of Construction Specifications Using Text-mining Based on Artificial Intelligence." 2019 Conference on Korean Society of Road Engineers, Busan, South Korea.
-[9] Moon, S., Lee, G., Chi, S.*, and Oh, H. (2019). "Automatic Review of Construction Specifications Using Natural Language Processing." 2019 ASCE International Conference on Computing in Civil Engineering, Atlanta, Georgia, U.S.A.
-[8] Moon, S., Kim, J., Chi, S.*, Kim, D.Y., and Oh, H. (2018). "Preliminary Study on Development of a Hand-written Text Recognition Framework for Construction Document Digitization." 2018 International Conference on Industrial Engineering & Engineering Management, Bangkok, Thailand.
-[7] Lee, G., Moon, S., Oh, H., Shin, Y., and Chi, S.* (2018). "Non-compliance Specification Checking Based on Text-Mining Construction Standard Analysis." 44th KSCE 2018 Civil Expo and Conference, Gyeongju, South Korea.
-[6] Moon, S., Kim, T., Hwang, B.-G., and Chi, S.* (2018). "Analysis of Construction Accidents Based on Semantic Search and Natural Language Processing." 35th International Symposium on Automation and Robotics in Construction (ISARC 2018), Berlin, Germany.
-[5] Moon, S., Kim, D.Y., and Chi, S. (2017). "Estimating Stock Price Fluctuation Cycles of Korean Construction Companies Based on Fractal Theory." 43th KSCE 2017 Civil Expo and Conference, Busan, South Korea.
-[4] Moon, S., Kim, D., Chi, S., and Jung, M. (2016). "Development of Cycle Estimation Model of Construction Cost Index Using Fractal Analysis." 33rd CIB W78 Conference 2016, Brisbane, Australia.
-[3] Shin, S., Lee, B., Shin, Y., You, S., Moon, S., Mok, S., and Chi, S. (2016). "A Support Model for International Construction Market Selection (IMS) Based on the Knowledge and Information." 42th KSCE 2016 Convention Program, Jeju, South Korea.
-[2] Moon, S., Kim, D.Y., and Chi, S. (2015). "Feasibility of Using Non-parametric Time-series Method on Risk Analysis in Global Construction Market." 41th KSCE 2015 Civil Expo and Conference, Gunsan, South Korea.
-[1] Moon, S., Kim, D.Y., and Chi, S. (2015). "Preliminary Study on Market Risk Prediction Model for International Construction Using Fractal Analysis." 6th International Conference on Construction Engineering and Project Management 2015, Busan, South Korea.
-*Corresponding Author
+[17] Lee, G., **Moon, S.**, Hwang, J., and Chi, S.\* (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_. [_Under Review_]  
+[16] Choi, H., **Moon, S.**, and Chi, S.\* (2021). "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method(DPPM)." _2021 KICEM Conference_, Gyeongju, South Korea.  
+[15] **Moon, S.**, Chung, S., Lee, G., and Chi, S.\* (2021). "Provision Classification for Automated Construction Specification Review using Bidirectional Encoder Representations from Transformer (BERT)." _2021 KICEM Conference_, Gyeongju, South Korea.  
+[14] Lee, G., **Moon, S.**, Won, D., Yoon S., and Chi, S. (2021). "Real-time Construction Site Noise Mapping System Based on Sensing Data." _47th KSCE 2021 Civil Expo and Conference_, Gwangju, South Korea.  
+[13] Won, D., **Moon, S.**, Lee, G., Yoon S., and Chi, S. (2021). "Automated Identification of Earthmoving Ground Surface Information from UAV Images." _47th KSCE 2021 Civil Expo and Conference_, Gwangju, South Korea.  
+[12] Lee, G., **Moon, S.**, and Chi, S.\* (2020). "Reference Identification of Sub-categories in Construction Specifications Using the Deep Structured Semantic Model." _46th KSCE 2020 Civil Expo and Conference_, Jeju, South Korea.  
+[11] Park, C., **Moon, S.**, Chi, S.\*, and Oh, H. (2019). "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)." _2019 KICEM Conference_, Goyang, South Korea.  
+[10] Lee, H., Oh, H., **Moon, S.**, and Chi, S.\* (2019). "Automatic Comparative Analysis of Construction Specifications Using Text-mining Based on Artificial Intelligence." _2019 Conference on Korean Society of Road Engineers_, Busan, South Korea.  
+[9] **Moon, S.**, Lee, G., Chi, S.\*, and Oh, H. (2019). "Automatic Review of Construction Specifications Using Natural Language Processing." _2019 ASCE International Conference on Computing in Civil Engineering_, Atlanta, Georgia, U.S.A.  
+[8] **Moon, S.**, Kim, J., Chi, S.\*, Kim, D.Y., and Oh, H. (2018). "Preliminary Study on Development of a Hand-written Text Recognition Framework for Construction Document Digitization." _2018 International Conference on Industrial Engineering & Engineering Management_, Bangkok, Thailand.  
+[7] Lee, G., **Moon, S.**, Oh, H., Shin, Y., and Chi, S.\* (2018). "Non-compliance Specification Checking Based on Text-Mining Construction Standard Analysis." _44th KSCE 2018 Civil Expo and Conference_, Gyeongju, South Korea.  
+[6] **Moon, S.**, Kim, T., Hwang, B.-G., and Chi, S.\* (2018). "Analysis of Construction Accidents Based on Semantic Search and Natural Language Processing." _35th International Symposium on Automation and Robotics in Construction (ISARC 2018)_, Berlin, Germany.  
+[5] **Moon, S.**, Kim, D.Y., and Chi, S. (2017). "Estimating Stock Price Fluctuation Cycles of Korean Construction Companies Based on Fractal Theory." _43th KSCE 2017 Civil Expo and Conference_, Busan, South Korea.  
+[4] **Moon, S.**, Kim, D., Chi, S., and Jung, M. (2016). "Development of Cycle Estimation Model of Construction Cost Index Using Fractal Analysis." _33rd CIB W78 Conference 2016_, Brisbane, Australia.  
+[3] Shin, S., Lee, B., Shin, Y., You, S., **Moon, S.**, Mok, S., and Chi, S. (2016). "A Support Model for International Construction Market Selection (IMS) Based on the Knowledge and Information." _42th KSCE 2016 Convention Program_, Jeju, South Korea.  
+[2] **Moon, S.**, Kim, D.Y., and Chi, S. (2015). "Feasibility of Using Non-parametric Time-series Method on Risk Analysis in Global Construction Market." _41th KSCE 2015 Civil Expo and Conference_, Gunsan, South Korea.  
+[1] **Moon, S.**, Kim, D.Y., and Chi, S. (2015). "Preliminary Study on Market Risk Prediction Model for International Construction Using Fractal Analysis." _6th International Conference on Construction Engineering and Project Management 2015_, Busan, South Korea.  
+<div align='right'>
+\*Corresponding Author
+</div>
 
 - Intellectual Property Rights
-Patent (Registered)
-[1] Choi, H, Chi, S., and Moon, S. (2021. 05. 20.) "Construction process navigation providing method." (Korea, Publication No. 10-2315373)
+_**Patent (Registered)**_  
+[1] Choi, H, Chi, S., and **Moon, S.** (2021. 05. 20.) "Construction process navigation providing method." (Korea, Publication No. 10-2315373)  
 
-Patent (Under Review)
-[4] Chi, S., Moon, S., and Lee, G. (2022. x. x.) "Automated Review System for Construction Contract Documents using Semantic Text Analysis." (Korea, Application Number: xx-xxxx-xxxxxxx)
-[3] Chi, S., Chung, S., and Moon, S. (2022. x. x.) "Method for Extraction of Bridge Damage Mechanism from Inspection Reports Using Bi-directional Recurrent Neural Network and Active Learning" (Korea, Application Number: xx-xxxx-xxxxxxx)
-[2] Chi, S., Moon, S., and Lee, G. (2021. 7. 28.) "Techniques for Keyword Extraction on Construction Contract Document using Deep Learning-based Named Entity Recognition." (Korea, Application Number: 10-2021-0099244)
-[1] Chi, S., Lee, G., and Moon, S. (2021. 7. 22.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Application Number: 10-2021-0095986)
+_**Patent (Under Review)**_  
+[4] Chi, S., **Moon, S.**, and Lee, G. (2022. x. x.) "Automated Review System for Construction Contract Documents using Semantic Text Analysis." (Korea, Application Number: xx-xxxx-xxxxxxx)  
+[3] Chi, S., Chung, S., and **Moon, S.** (2022. x. x.) "Method for Extraction of Bridge Damage Mechanism from Inspection Reports Using Bi-directional Recurrent Neural Network and Active Learning" (Korea, Application Number: xx-xxxx-xxxxxxx)  
+[2] Chi, S., **Moon, S.**, and Lee, G. (2021. 7. 28.) "Techniques for Keyword Extraction on Construction Contract Document using Deep Learning-based Named Entity Recognition." (Korea, Application Number: 10-2021-0099244)  
+[1] Chi, S., Lee, G., and **Moon, S.** (2021. 7. 22.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Application Number: 10-2021-0095986)  
 
-Software
-[4] Chi, S., Moon, S., and Lee, G. (2021. 04. 28.) "Requirement Keyword Detection Program for Automated Review of Construction Specification." (Korea, Program C-2021-018339)
-[3] Chi, S., Lee, G., and Moon, S. (2021. 04. 27.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Program C-2021-018235)
-[2] Chi, S., Kim, T., and Moon, S. (2018. 5. 15.) "Semantic Search System for Risk Factor of Construction Accident" (Korea, Registration Number: C-2018-012345)
-[1]     Shin, S., Lee, H., Koh, H., Lee, B., Chi, S., Cho, J., Lee, S., Lee, B., You, S., Moon, S., and Mok, S. (2017. 01. 15.) "Information Infrastructure of Global Construction Markets." (Republic of Korea, Registration Number: C-2017-001737)
+_**Software**_  
+[6] Chi, S., **Moon, S.**, and Lee, G. (2022. x. x.) "Deep Learning-based Construction Contract Review Program." (Korea, Program x-xxxx-xxxxxx)
 
-RESEARCH PROJECTS (participated)
+<!-- TODO -->
+<!-- [5] Chi, S.,  -->
+
+[4] Chi, S., **Moon, S.**, and Lee, G. (2021. 4. 28.) "Requirement Keyword Detection Program for Automated Review of Construction Specification." (Korea, Program C-2021-018339)  
+[3] Chi, S., Lee, G., and **Moon, S.** (2021. 4. 27.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Program C-2021-018235)  
+[2] Chi, S., Kim, T., and **Moon, S.** (2018. 5. 15.) "Semantic Search System for Risk Factor of Construction Accident" (Korea, Registration Number: C-2018-012345)  
+[1] Shin, S., Lee, H., Koh, H., Lee, B., Chi, S., Cho, J., Lee, S., Lee, B., You, S., **Moon, S.**, and Mok, S. (2017. 01. 15.) "Information Infrastructure of Global Construction Markets." (Republic of Korea, Registration Number: C-2017-001737)  
+
+<!-- RESEARCH PROJECTS (participated)
 - Artificial Intelligence and Digital Transformation
 04/2018 – 12/2019   Developing AI Program for Analyzing Asphalt Pavement Specifications Based on Big Data
 Daewoo Institute of Construction Technology, South Korea ($85,000)
