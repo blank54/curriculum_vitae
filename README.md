@@ -129,106 +129,106 @@ _**Software**_
 ### Artificial Intelligence and Digital Transformation
 
 **04/2018 – 12/2019**  
-Developing AI Program for Analyzing Asphalt Pavement Specifications Based on Big Data  
+**Developing AI Program for Analyzing Asphalt Pavement Specifications Based on Big Data**  
 Daewoo Institute of Construction Technology, South Korea ($85,000)
 
 **03/2015 – 04/2017**  
-Developing Web Intelligence Systems of Construction Tacit Knowledge Based on Text Mining  
+**Developing Web Intelligence Systems of Construction Tacit Knowledge Based on Text Mining**  
 National Research Foundation of Korea ($150,813)
 
 **06/2016 – 06/2018**  
-Deep-Learning-Based Information Service System to Support Life-cycle Risk Management of Construction Projects  
+**Deep-Learning-Based Information Service System to Support Life-cycle Risk Management of Construction Projects**  
 Korea Agency for Infrastructure Technology Advancement ($100,000)
 
 ### Smart Construction and Automation
 
 04/2020 – 12/2025  
-Smart Construction Technology Development Project through Field Operation on Roads: Development of Information Collection and Analysis Technology in Construction Site  
+**Smart Construction Technology Development Project through Field Operation on Roads: Development of Information Collection and Analysis Technology in Construction Site**  
 Korea Agency for Infrastructure Technology Advancement ($1,318,200)
 
 04/2019 – 12/2021  
-Automated DB-free Visual Analytics Platform for Enhancing Construction Productivity by 20%  
+**Automated DB-free Visual Analytics Platform for Enhancing Construction Productivity by 20%**  
 Korea Agency for Infrastructure Technology Advancement ($565,000)
 
 ### Project Risk Management
 
 4/2018 – 12/2018 
-Analyzing Causes of Safety Accidents in the Metropolitan Road Construction Project  
+**Analyzing Causes of Safety Accidents in the Metropolitan Road Construction Project**  
 Wooseok Construction, South Korea ($27,200)
 
 7/2014 – 03/2017 
-Construction Information and Knowledge HUB Center  
+**Construction Information and Knowledge HUB Center**  
 Korea Agency for Infrastructure Technology Advancement ($990,000)
 
 7/2014 – 03/2017 
-Development of Decision Support System for Early Warning and Mitigation to Mega-Shock in International Construction Market  
+**Development of Decision Support System for Early Warning and Mitigation to Mega-Shock in International Construction Market**  
 National Research Foundation of Korea ($102,180)
 
 ### Others
 
 4/2019 – 02/2024  
-Smart Digital Engineering Education Program  
+**Smart Digital Engineering Education Program**  
 Korea Institute for Advancement of Technology ($1,650,000)
 
 5/2018 – 12/2018  
-2018 X-Corps Engineer Education Program with Hands-on Practices  
+**2018 X-Corps Engineer Education Program with Hands-on Practices**  
 Graduate School of Engineering Practice, Seoul National University, South Korea ($7,000)
 
 ## RELEVANT COURSEWORK
 
 ### Construction Management
 
-- 2018&nbsp;&nbsp;&nbsp;&nbsp;Advanced Concepts and Applications of Building Materials in Construction, Seoul National University  
-- 2018&nbsp;&nbsp;&nbsp;&nbsp;Project Planning and Control in Construction, Seoul National University  
-- 2017&nbsp;&nbsp;&nbsp;&nbsp;Advanced Built Environment Project Management Seminar (Construction Industry in the Era of Industry 4.0), Seoul National University  
-- 2017&nbsp;&nbsp;&nbsp;&nbsp;Construction Performance and Productivity Improvement, Seoul National University  
-- 2017&nbsp;&nbsp;&nbsp;&nbsp;Contemporary Seminar: Industry Issues in Civil and Environmental Engineering (Self-recovering Urban System Development), Seoul National University  
-- 2016&nbsp;&nbsp;&nbsp;&nbsp;Construction IT and Automation (English), Seoul National University  
-- 2015&nbsp;&nbsp;&nbsp;&nbsp;Construction Management & Project Engineering, Seoul National University  
-- 2015&nbsp;&nbsp;&nbsp;&nbsp;Construction Risk Management, Seoul National University  
-- 2015&nbsp;&nbsp;&nbsp;&nbsp;Construction Information Management Systems (English), Seoul National University  
-- 2014&nbsp;&nbsp;&nbsp;&nbsp;Construction Methods and Equipment, Seoul National University  
-- 2014&nbsp;&nbsp;&nbsp;&nbsp;Construction Planning and Management, Seoul National University  
+- 2018&nbsp;&nbsp;&nbsp;&nbsp;**Advanced Concepts and Applications of Building Materials in Construction**, Seoul National University  
+- 2018&nbsp;&nbsp;&nbsp;&nbsp;**Project Planning and Control in Construction**, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;**Advanced Built Environment Project Management Seminar (Construction Industry in the Era of Industry 4.0)**, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;**Construction Performance and Productivity Improvement**, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;**Contemporary Seminar: Industry Issues in Civil and Environmental Engineering (Self-recovering Urban System Development)**, Seoul National University  
+- 2016&nbsp;&nbsp;&nbsp;&nbsp;**Construction IT and Automation (English)**, Seoul National University  
+- 2015&nbsp;&nbsp;&nbsp;&nbsp;**Construction Management & Project Engineering**, Seoul National University  
+- 2015&nbsp;&nbsp;&nbsp;&nbsp;**Construction Risk Management**, Seoul National University  
+- 2015&nbsp;&nbsp;&nbsp;&nbsp;**Construction Information Management Systems (English)**, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;**Construction Methods and Equipment**, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;**Construction Planning and Management**, Seoul National University  
 
 ### Computer Science and Machine Learning
 
-- 2017&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Modern Information Retrieval, Seoul National University  
-- 2016&nbsp;&nbsp;&nbsp;&nbsp;Applied Multivariate Statistical Analysis, Seoul National University  
-- 2014&nbsp;&nbsp;&nbsp;&nbsp;Internet Applications, Seoul National University  
-- 2013&nbsp;&nbsp;&nbsp;&nbsp;Data Mining, Seoul National University  
-- 2013&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Electrical and Computer Engineering, Seoul National University  
-- 2012&nbsp;&nbsp;&nbsp;&nbsp;Analysis and Design of Database, Seoul National University  
-- 2012&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Computing for Industrial Engineering, Seoul National University  
-- 2011&nbsp;&nbsp;&nbsp;&nbsp;Digital Computer Concept and Practice, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Modern Information Retrieval**, Seoul National University  
+- 2016&nbsp;&nbsp;&nbsp;&nbsp;**Applied Multivariate Statistical Analysis**, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;**Internet Applications**, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Data Mining**, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Electrical and Computer Engineering**, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;**Analysis and Design of Database**, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Computing for Industrial Engineering**, Seoul National University  
+- 2011&nbsp;&nbsp;&nbsp;&nbsp;**Digital Computer Concept and Practice**, Seoul National University  
 
 ### Text Mining and Natural Language Processing
 
-- 2017&nbsp;&nbsp;&nbsp;&nbsp;Computational Treatment of Korean Language Information, Seoul National University  
-- 2013&nbsp;&nbsp;&nbsp;&nbsp;Information Retrieval, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;**Computational Treatment of Korean Language Information**, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Information Retrieval**, Seoul National University  
 
 ### Other Engineering
 
-- 2018&nbsp;&nbsp;&nbsp;&nbsp;Advanced Photogrammetry, Seoul National University  
-- 2017&nbsp;&nbsp;&nbsp;&nbsp;Engineering Research Ethics and Writing Skills, Seoul National University  
-- 2014&nbsp;&nbsp;&nbsp;&nbsp;Quality Management, Seoul National University  
-- 2014&nbsp;&nbsp;&nbsp;&nbsp;Management of Technology, Seoul National University  
-- 2014&nbsp;&nbsp;&nbsp;&nbsp;Linear Programming, Seoul National University  
-- 2014&nbsp;&nbsp;&nbsp;&nbsp;Logistic Management (English), Seoul National University  
-- 2013&nbsp;&nbsp;&nbsp;&nbsp;Production Control, Seoul National University  
-- 2013&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Civil and Environmental Engineering, Seoul National University  
-- 2013&nbsp;&nbsp;&nbsp;&nbsp;Differential Equations, Seoul National University  
-- 2013&nbsp;&nbsp;&nbsp;&nbsp;Statistics for Industrial Engineering, Seoul National University  
-- 2013&nbsp;&nbsp;&nbsp;&nbsp;Operation Research 2, Seoul National University  
-- 2013&nbsp;&nbsp;&nbsp;&nbsp;Engineering Economy, Seoul National University  
-- 2013&nbsp;&nbsp;&nbsp;&nbsp;Engineering Mathematics 1, Seoul National University  
-- 2012&nbsp;&nbsp;&nbsp;&nbsp;Operation Research 1, Seoul National University  
-- 2012&nbsp;&nbsp;&nbsp;&nbsp;Human Factors Engineering (English), Seoul National University  
-- 2012&nbsp;&nbsp;&nbsp;&nbsp;Engineering Mathematics 2, Seoul National University  
-- 2012&nbsp;&nbsp;&nbsp;&nbsp;Critical Understanding of Scientific Reasoning, Seoul National University  
-- 2012&nbsp;&nbsp;&nbsp;&nbsp;Scientific Management, Seoul National University  
-- 2011&nbsp;&nbsp;&nbsp;&nbsp;Statistics, Seoul National University  
-- 2011&nbsp;&nbsp;&nbsp;&nbsp;Calculus 2, Seoul National University  
-- 2011&nbsp;&nbsp;&nbsp;&nbsp;Calculus 1, Seoul National University  
+- 2018&nbsp;&nbsp;&nbsp;&nbsp;**Advanced Photogrammetry**, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;**Engineering Research Ethics and Writing Skills**, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;**Quality Management**, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;**Management of Technology**, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;**Linear Programming**, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;**Logistic Management (English)**, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Production Control**, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Civil and Environmental Engineering**, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Differential Equations**, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Statistics for Industrial Engineering**, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Operation Research 2**, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Engineering Economy**, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Engineering Mathematics 1**, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;**Operation Research 1**, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;**Human Factors Engineering (English)**, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;**Engineering Mathematics 2**, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;**Critical Understanding of Scientific Reasoning**, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;**Scientific Management**, Seoul National University  
+- 2011&nbsp;&nbsp;&nbsp;&nbsp;**Statistics**, Seoul National University  
+- 2011&nbsp;&nbsp;&nbsp;&nbsp;**Calculus 2**, Seoul National University  
+- 2011&nbsp;&nbsp;&nbsp;&nbsp;**Calculus 1**, Seoul National University  
 
 ## TEACHING EXPERIENCE
 
