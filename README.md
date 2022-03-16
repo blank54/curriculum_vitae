@@ -52,13 +52,13 @@ Seoul National University, Seoul, South Korea
 - 2019&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korean Society of Road Engineers 2019 Convention "Automatic Comparative Analysis of Construction Specifications Using Text-mining Based on Artificial Intelligence."  
 - 2018&nbsp;&nbsp;&nbsp;&nbsp;**Special Award**, 2018 Seoul National University X-Corps Practice Research Team  
 - 2018&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korean Society of Civil Engineers 2018 Convention  "Non-compliance Specification Checking Based on Text-Mining Construction Standard Analysis."  
-- 2016 – 2020 **Brain Korea 21 Scholarship**, Ministry of Education, Korea ($34,600)
+- 2016 – 2020&nbsp;&nbsp;&nbsp;&nbsp;**Brain Korea 21 Scholarship**, Ministry of Education, Korea ($34,600)
 
 ## PUBLICATIONS
 
 ### Refereed Journal Articles (International)
 
-[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_, _submitted on 10/24/2021_. [_Under Review_, Q1, SCI-E, 2021 IF 3.531]  
+[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management. [_Under Review_, Q1, SCI-E, 2021 IF 3.531] - _submitted on 10/24/2021_.
 [8]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 5.603]  
 [7]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Kim, D.Y.\* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." _KSCE Journal of Civil Engineering_, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q2, SCI-E, 2021 IF 1.805]  
 [6]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." _Automation in Construction_, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2021 IF 7.700]  
@@ -117,8 +117,8 @@ _**Patent (Under Review)**_
 
 _**Software**_
 
-[6]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. x. x.) "3D Visualization of Environmental Information on Construction Site." (Korea, Program x-xxxx-xxxxxx), _submitted on 03/14/2022_.  
-[5]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2022. x. x.) "Deep Learning-based Construction Contract Review Program." (Korea, Program x-xxxx-xxxxxx), _submitted on 03/11/2022_.  
+[6]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. x. x.) "3D Visualization of Environmental Information on Construction Site." (Korea, Program x-xxxx-xxxxxx) - _submitted on 03/14/2022_  
+[5]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2022. x. x.) "Deep Learning-based Construction Contract Review Program." (Korea, Program x-xxxx-xxxxxx) - _submitted on 03/11/2022_  
 [4]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2021. 4. 28.) "Requirement Keyword Detection Program for Automated Review of Construction Specification." (Korea, Program C-2021-018339)  
 [3]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Lee, G., and **Moon, S.** (2021. 4. 27.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Program C-2021-018235)  
 [2]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Kim, T., and **Moon, S.** (2018. 5. 15.) "Semantic Search System for Risk Factor of Construction Accident" (Korea, Registration Number: C-2018-012345)  
@@ -126,7 +126,7 @@ _**Software**_
 
 ## RESEARCH PROJECTS (participated)
 
-_**Artificial Intelligence and Digital Transformation**_
+### Artificial Intelligence and Digital Transformation
 
 **04/2018 – 12/2019**  
 Developing AI Program for Analyzing Asphalt Pavement Specifications Based on Big Data  
@@ -140,7 +140,7 @@ National Research Foundation of Korea ($150,813)
 Deep-Learning-Based Information Service System to Support Life-cycle Risk Management of Construction Projects  
 Korea Agency for Infrastructure Technology Advancement ($100,000)
 
-_**Smart Construction and Automation**_
+### Smart Construction and Automation
 
 **04/2020 – 12/2025**  
 Smart Construction Technology Development Project through Field Operation on Roads: Development of Information Collection and Analysis Technology in Construction Site  
@@ -150,7 +150,7 @@ Korea Agency for Infrastructure Technology Advancement ($1,318,200)
 Automated DB-free Visual Analytics Platform for Enhancing Construction Productivity by 20%  
 Korea Agency for Infrastructure Technology Advancement ($565,000)
 
-_**Project Risk Management**_
+### Project Risk Management
 
 **04/2018 – 12/2018**  
 Analyzing Causes of Safety Accidents in the Metropolitan Road Construction Project  
@@ -164,7 +164,7 @@ Korea Agency for Infrastructure Technology Advancement ($990,000)
 Development of Decision Support System for Early Warning and Mitigation to Mega-Shock in International Construction Market  
 National Research Foundation of Korea ($102,180)
 
-_**Others**_
+### Others
 
 **04/2019 – 02/2024**  
 Smart Digital Engineering Education Program  
