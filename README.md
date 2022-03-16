@@ -152,25 +152,25 @@ Korea Agency for Infrastructure Technology Advancement ($565,000)
 
 ### Project Risk Management
 
-4/2018 – 12/2018 
+04/2018 – 12/2018 
 **Analyzing Causes of Safety Accidents in the Metropolitan Road Construction Project**  
 Wooseok Construction, South Korea ($27,200)
 
-7/2014 – 03/2017 
+07/2014 – 03/2017 
 **Construction Information and Knowledge HUB Center**  
 Korea Agency for Infrastructure Technology Advancement ($990,000)
 
-7/2014 – 03/2017 
+07/2014 – 03/2017 
 **Development of Decision Support System for Early Warning and Mitigation to Mega-Shock in International Construction Market**  
 National Research Foundation of Korea ($102,180)
 
 ### Others
 
-4/2019 – 02/2024  
+04/2019 – 02/2024  
 **Smart Digital Engineering Education Program**  
 Korea Institute for Advancement of Technology ($1,650,000)
 
-5/2018 – 12/2018  
+05/2018 – 12/2018  
 **2018 X-Corps Engineer Education Program with Hands-on Practices**  
 Graduate School of Engineering Practice, Seoul National University, South Korea ($7,000)
 
