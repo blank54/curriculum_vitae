@@ -22,13 +22,13 @@ Seoul National University
 - Python / MATLAB / R / Unity
 
 ## EDUCATION
-03/2015 – 08/2020  
+**03/2015 – 08/2020**  
 **Ph.D.** in Civil and Environmental Engineering (Construction Management)  
 Seoul National University, Seoul, South Korea (Advisor: **Dr. Seokho Chi**)  
-Dissertation: "Automated Construction Specification Review based on Semantic Textual Analysis."
+**Dissertation**: "Automated Construction Specification Review based on Semantic Textual Analysis."
 
-03/2011 – 02/2015  
-B.E. in Industrial Engineering  
+**03/2011 – 02/2015**  
+**B.E.** in Industrial Engineering  
 Seoul National University, Seoul, South Korea
 
 ## PROFESSIONAL EXPERIENCE
