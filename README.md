@@ -32,18 +32,18 @@ Seoul National University, Seoul, South Korea (Advisor: **Dr. Seokho Chi**)
 Seoul National University, Seoul, South Korea
 
 ## PROFESSIONAL EXPERIENCE
-09/2020 – Present  
-Postdoctoral Research Fellow, Construction !nnovation Laboratory, Seoul National University, Seoul, Korea
+**09/2020 – Present**  
+**Postdoctoral Research Fellow**, Construction !nnovation Laboratory, Seoul National University, Seoul, Korea
 
-09/2020 – Present  
-Senior Researcher, Institute of Construction and Environmental Engineering Seoul National University, Seoul, Korea
+**09/2020 – Present**  
+**Senior Researcher**, Institute of Construction and Environmental Engineering Seoul National University, Seoul, Korea
 
-09/2014 – 02/2015  
-Undergraduate Internship, Construction !nnovation Laboratory, Seoul National University, Seoul, South Korea
+**09/2014 – 02/2015**  
+**Undergraduate Internship**, Construction !nnovation Laboratory, Seoul National University, Seoul, South Korea
 
 ## HONORS AND AWARDS
-2021    **Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2021 Convention "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method (DPPM)."  
-2019    **Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2019 Convention "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)."  
+2021\t**Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2021 Convention "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method (DPPM)."  
+2019\t**Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2019 Convention "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)."  
 2019    **Outstanding Paper Award**, Korean Society of Road Engineers 2019 Convention "Automatic Comparative Analysis of Construction Specifications Using Text-mining Based on Artificial Intelligence."  
 2018    **Special Award**, 2018 Seoul National University X-Corps Practice Research Team  
 2018    **Outstanding Paper Award**, Korean Society of Civil Engineers 2018 Convention  "Non-compliance Specification Checking Based on Text-Mining Construction Standard Analysis."
