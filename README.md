@@ -36,13 +36,13 @@ Seoul National University, Seoul, South Korea
 
 ## PROFESSIONAL EXPERIENCE
 
-**09/2020 – Present**  
+09/2020 – Present  
 **Postdoctoral Research Fellow**, Construction !nnovation Laboratory, Seoul National University, Seoul, Korea
 
-**09/2020 – Present**  
+09/2020 – Present 
 **Senior Researcher**, Institute of Construction and Environmental Engineering Seoul National University, Seoul, Korea
 
-**09/2014 – 02/2015**  
+09/2014 – 02/2015  
 **Undergraduate Internship**, Construction !nnovation Laboratory, Seoul National University, Seoul, South Korea
 
 ## HONORS AND AWARDS
@@ -142,35 +142,35 @@ Korea Agency for Infrastructure Technology Advancement ($100,000)
 
 ### Smart Construction and Automation
 
-**04/2020 – 12/2025**  
+04/2020 – 12/2025  
 Smart Construction Technology Development Project through Field Operation on Roads: Development of Information Collection and Analysis Technology in Construction Site  
 Korea Agency for Infrastructure Technology Advancement ($1,318,200)
 
-**04/2019 – 12/2021**  
+04/2019 – 12/2021  
 Automated DB-free Visual Analytics Platform for Enhancing Construction Productivity by 20%  
 Korea Agency for Infrastructure Technology Advancement ($565,000)
 
 ### Project Risk Management
 
-**04/2018 – 12/2018**  
+4/2018 – 12/2018 
 Analyzing Causes of Safety Accidents in the Metropolitan Road Construction Project  
 Wooseok Construction, South Korea ($27,200)
 
-**07/2014 – 03/2017**  
+7/2014 – 03/2017 
 Construction Information and Knowledge HUB Center  
 Korea Agency for Infrastructure Technology Advancement ($990,000)
 
-**07/2014 – 03/2017**  
+7/2014 – 03/2017 
 Development of Decision Support System for Early Warning and Mitigation to Mega-Shock in International Construction Market  
 National Research Foundation of Korea ($102,180)
 
 ### Others
 
-**04/2019 – 02/2024**  
+4/2019 – 02/2024  
 Smart Digital Engineering Education Program  
 Korea Institute for Advancement of Technology ($1,650,000)
 
-**05/2018 – 12/2018**  
+5/2018 – 12/2018  
 2018 X-Corps Engineer Education Program with Hands-on Practices  
 Graduate School of Engineering Practice, Seoul National University, South Korea ($7,000)
 
@@ -178,57 +178,57 @@ Graduate School of Engineering Practice, Seoul National University, South Korea 
 
 ### Construction Management
 
-2018&nbsp;&nbsp;&nbsp;&nbsp;Advanced Concepts and Applications of Building Materials in Construction, Seoul National University  
-2018&nbsp;&nbsp;&nbsp;&nbsp;Project Planning and Control in Construction, Seoul National University  
-2017&nbsp;&nbsp;&nbsp;&nbsp;Advanced Built Environment Project Management Seminar (Construction Industry in the Era of Industry 4.0), Seoul National University  
-2017&nbsp;&nbsp;&nbsp;&nbsp;Construction Performance and Productivity Improvement, Seoul National University  
-2017&nbsp;&nbsp;&nbsp;&nbsp;Contemporary Seminar: Industry Issues in Civil and Environmental Engineering (Self-recovering Urban System Development), Seoul National University  
-2016&nbsp;&nbsp;&nbsp;&nbsp;Construction IT and Automation (English), Seoul National University  
-2015&nbsp;&nbsp;&nbsp;&nbsp;Construction Management & Project Engineering, Seoul National University  
-2015&nbsp;&nbsp;&nbsp;&nbsp;Construction Risk Management, Seoul National University  
-2015&nbsp;&nbsp;&nbsp;&nbsp;Construction Information Management Systems (English), Seoul National University  
-2014&nbsp;&nbsp;&nbsp;&nbsp;Construction Methods and Equipment, Seoul National University  
-2014&nbsp;&nbsp;&nbsp;&nbsp;Construction Planning and Management, Seoul National University  
+- 2018&nbsp;&nbsp;&nbsp;&nbsp;Advanced Concepts and Applications of Building Materials in Construction, Seoul National University  
+- 2018&nbsp;&nbsp;&nbsp;&nbsp;Project Planning and Control in Construction, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;Advanced Built Environment Project Management Seminar (Construction Industry in the Era of Industry 4.0), Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;Construction Performance and Productivity Improvement, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;Contemporary Seminar: Industry Issues in Civil and Environmental Engineering (Self-recovering Urban System Development), Seoul National University  
+- 2016&nbsp;&nbsp;&nbsp;&nbsp;Construction IT and Automation (English), Seoul National University  
+- 2015&nbsp;&nbsp;&nbsp;&nbsp;Construction Management & Project Engineering, Seoul National University  
+- 2015&nbsp;&nbsp;&nbsp;&nbsp;Construction Risk Management, Seoul National University  
+- 2015&nbsp;&nbsp;&nbsp;&nbsp;Construction Information Management Systems (English), Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;Construction Methods and Equipment, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;Construction Planning and Management, Seoul National University  
 
 ### Computer Science and Machine Learning
 
-2017&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Modern Information Retrieval, Seoul National University  
-2016&nbsp;&nbsp;&nbsp;&nbsp;Applied Multivariate Statistical Analysis, Seoul National University  
-2014&nbsp;&nbsp;&nbsp;&nbsp;Internet Applications, Seoul National University  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Data Mining, Seoul National University  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Electrical and Computer Engineering, Seoul National University  
-2012&nbsp;&nbsp;&nbsp;&nbsp;Analysis and Design of Database, Seoul National University  
-2012&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Computing for Industrial Engineering, Seoul National University  
-2011&nbsp;&nbsp;&nbsp;&nbsp;Digital Computer Concept and Practice, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Modern Information Retrieval, Seoul National University  
+- 2016&nbsp;&nbsp;&nbsp;&nbsp;Applied Multivariate Statistical Analysis, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;Internet Applications, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;Data Mining, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Electrical and Computer Engineering, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;Analysis and Design of Database, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Computing for Industrial Engineering, Seoul National University  
+- 2011&nbsp;&nbsp;&nbsp;&nbsp;Digital Computer Concept and Practice, Seoul National University  
 
 ### Text Mining and Natural Language Processing
 
-2017&nbsp;&nbsp;&nbsp;&nbsp;Computational Treatment of Korean Language Information, Seoul National University  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Information Retrieval, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;Computational Treatment of Korean Language Information, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;Information Retrieval, Seoul National University  
 
 ### Other Engineering
 
-2018&nbsp;&nbsp;&nbsp;&nbsp;Advanced Photogrammetry, Seoul National University  
-2017&nbsp;&nbsp;&nbsp;&nbsp;Engineering Research Ethics and Writing Skills, Seoul National University  
-2014&nbsp;&nbsp;&nbsp;&nbsp;Quality Management, Seoul National University  
-2014&nbsp;&nbsp;&nbsp;&nbsp;Management of Technology, Seoul National University  
-2014&nbsp;&nbsp;&nbsp;&nbsp;Linear Programming, Seoul National University  
-2014&nbsp;&nbsp;&nbsp;&nbsp;Logistic Management (English), Seoul National University  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Production Control, Seoul National University  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Civil and Environmental Engineering, Seoul National University  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Differential Equations, Seoul National University  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Statistics for Industrial Engineering, Seoul National University  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Operation Research 2, Seoul National University  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Engineering Economy, Seoul National University  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Engineering Mathematics 1, Seoul National University  
-2012&nbsp;&nbsp;&nbsp;&nbsp;Operation Research 1, Seoul National University  
-2012&nbsp;&nbsp;&nbsp;&nbsp;Human Factors Engineering (English), Seoul National University  
-2012&nbsp;&nbsp;&nbsp;&nbsp;Engineering Mathematics 2, Seoul National University  
-2012&nbsp;&nbsp;&nbsp;&nbsp;Critical Understanding of Scientific Reasoning, Seoul National University  
-2012&nbsp;&nbsp;&nbsp;&nbsp;Scientific Management, Seoul National University  
-2011&nbsp;&nbsp;&nbsp;&nbsp;Statistics, Seoul National University  
-2011&nbsp;&nbsp;&nbsp;&nbsp;Calculus 2, Seoul National University  
-2011&nbsp;&nbsp;&nbsp;&nbsp;Calculus 1, Seoul National University  
+- 2018&nbsp;&nbsp;&nbsp;&nbsp;Advanced Photogrammetry, Seoul National University  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;Engineering Research Ethics and Writing Skills, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;Quality Management, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;Management of Technology, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;Linear Programming, Seoul National University  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;Logistic Management (English), Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;Production Control, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Civil and Environmental Engineering, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;Differential Equations, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;Statistics for Industrial Engineering, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;Operation Research 2, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;Engineering Economy, Seoul National University  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;Engineering Mathematics 1, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;Operation Research 1, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;Human Factors Engineering (English), Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;Engineering Mathematics 2, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;Critical Understanding of Scientific Reasoning, Seoul National University  
+- 2012&nbsp;&nbsp;&nbsp;&nbsp;Scientific Management, Seoul National University  
+- 2011&nbsp;&nbsp;&nbsp;&nbsp;Statistics, Seoul National University  
+- 2011&nbsp;&nbsp;&nbsp;&nbsp;Calculus 2, Seoul National University  
+- 2011&nbsp;&nbsp;&nbsp;&nbsp;Calculus 1, Seoul National University  
 
 ## TEACHING EXPERIENCE
 
@@ -259,70 +259,70 @@ Service Teaching Program of Korean University Confederation "Gongsin"
 
 ## PROFESSIONAL PRESENTATIONS AND WORKSHOPS
 
-2021&nbsp;&nbsp;&nbsp;&nbsp;Environmental Information Sensing on Construction Site  
+2021&nbsp;&nbsp;&nbsp;&nbsp;**Environmental Information Sensing on Construction Site**  
 Korea Agency for Infrastructure Technology Advancement, Seoul, South Korea. (2021. 10. 27.)
 
-2021&nbsp;&nbsp;&nbsp;&nbsp;Cost and Performance Analysis for Bridge Management  
+2021&nbsp;&nbsp;&nbsp;&nbsp;**Cost and Performance Analysis for Bridge Management**  
 Korea Institute of Civil Engineering and Building Technology, Seoul, South Korea. (2021. 3. 15.)
 
-2020&nbsp;&nbsp;&nbsp;&nbsp;Automated Construction Specification Review using Deep Learning-based Text Mining  
+2020&nbsp;&nbsp;&nbsp;&nbsp;**Automated Construction Specification Review using Deep Learning-based Text Mining**  
 2019 Korea Institute of Construction Engineering and Management Conference 3 TRACK: Smart Construction, Seoul, South Korea. (2020. 11. 5.)
 
-2018&nbsp;&nbsp;&nbsp;&nbsp;Construction Safety Accident Analyses Based on Natural Language Processing  
+2018&nbsp;&nbsp;&nbsp;&nbsp;**Construction Safety Accident Analyses Based on Natural Language Processing**  
 2018 NTUST-SNU-NTU-VT Joint Workshop, National Taiwan University of Science and Technology, Taipei, Taiwan. (2018. 1. 3.)
 
-2015&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Fractal  
+2015&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Fractal**  
 Department of Civil and Environmental Engineering, Seoul National University, Seoul, South Korea. (2015. 10. 2.)
 
 ## PROFESSIONAL MEMBERSHIP ROLES
 
 ### Academic Society
 
-2021 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Automation and Robotics in Construction
-2016 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korea Institute of Construction Engineering and Management
-2015 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Civil Engineers
+- 2021 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Automation and Robotics in Construction
+- 2016 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korea Institute of Construction Engineering and Management
+- 2015 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Civil Engineers
 
 ## Journal Review
 
-2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics
-2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science
-2020 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science
+- 2020 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering
 
 ## PROFESSIONAL CERTIFICATES AND TRAINING
 
-2022&nbsp;&nbsp;&nbsp;&nbsp;Serious Accident Punishment Act  
+2022&nbsp;&nbsp;&nbsp;&nbsp;**Serious Accident Punishment Act**  
 Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea
 
-2020&nbsp;&nbsp;&nbsp;&nbsp;Project Feasibility Study and Cost Estimation  
+2020&nbsp;&nbsp;&nbsp;&nbsp;**Project Feasibility Study and Cost Estimation**  
 Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea
 
-2020&nbsp;&nbsp;&nbsp;&nbsp;Building Information Modeling  
+2020&nbsp;&nbsp;&nbsp;&nbsp;**Building Information Modeling**  
 Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea
 
-2013&nbsp;&nbsp;&nbsp;&nbsp;Industrial Engineer Information Processing  
+2013&nbsp;&nbsp;&nbsp;&nbsp;**Industrial Engineer Information Processing**  
 Human Resources Development Service of Korea
 
 ## PERSONAL ACTIVITIES
 
 _I enjoy playing guitar and writing songs. To date, I have written fifteen songs. My favorite song is Wonderwall by Oasis._
 
-2021&nbsp;&nbsp;&nbsp;&nbsp;To you, my, lyrics and music by Seonghyeon Moon  
-2020&nbsp;&nbsp;&nbsp;&nbsp;Intersection, lyrics and music by Seonghyeon Moon  
-2019&nbsp;&nbsp;&nbsp;&nbsp;Goodbye is always sad, lyrics and music by Seonghyeon Moon  
-2019&nbsp;&nbsp;&nbsp;&nbsp;When you feel the beautiful is beautiful, lyrics and music by Seonghyeon Moon  
-2018&nbsp;&nbsp;&nbsp;&nbsp;When the day comes, lyrics and music by Seonghyeon Moon  
-2018&nbsp;&nbsp;&nbsp;&nbsp;Like this, lyrics and music by Seonghyeon Moon  
-2017&nbsp;&nbsp;&nbsp;&nbsp;The heart is just beating, lyrics and music by Seonghyeon Moon  
-2017&nbsp;&nbsp;&nbsp;&nbsp;Get over, lyrics and music by Seonghyeon Moon  
-2017&nbsp;&nbsp;&nbsp;&nbsp;Now I say, A nuptial song for my friend, lyrics and music by Seonghyeon Moon  
-2017&nbsp;&nbsp;&nbsp;&nbsp;I’m still, lyrics and music by Seonghyeon Moon  
-2015&nbsp;&nbsp;&nbsp;&nbsp;Theme song for the Department of Industrial Engineering, Seoul National University,   lyrics and music by Seonghyeon Moon
-2014&nbsp;&nbsp;&nbsp;&nbsp;Way home, lyrics and music by Seonghyeon Moon  
-2014&nbsp;&nbsp;&nbsp;&nbsp;Room of choice, lyrics and music by Seonghyeon Moon  
-2014&nbsp;&nbsp;&nbsp;&nbsp;Psychology of Interpersonal Relations, lyrics and music by Seonghyeon Moon  
-2013&nbsp;&nbsp;&nbsp;&nbsp;Lost in memories, A cheering song for students, lyrics and music by Seonghyeon Moon  
-2014 – 2016&nbsp;&nbsp;&nbsp;&nbsp;Fuze 19th, Fusion jazz and funky band of Seoul National University  
-2011 – 2015&nbsp;&nbsp;&nbsp;&nbsp;Bbongs, Student rock band of the Department of Industrial Engineering, Seoul National University  
+- 2021&nbsp;&nbsp;&nbsp;&nbsp;**To you, my**, _lyrics and music by Seonghyeon Moon_  
+- 2020&nbsp;&nbsp;&nbsp;&nbsp;**Intersection**, _lyrics and music by Seonghyeon Moon_  
+- 2019&nbsp;&nbsp;&nbsp;&nbsp;**Goodbye is always sad**, _lyrics and music by Seonghyeon Moon_  
+- 2019&nbsp;&nbsp;&nbsp;&nbsp;**When you feel the beautiful is beautiful**, _lyrics and music by Seonghyeon Moon_  
+- 2018&nbsp;&nbsp;&nbsp;&nbsp;**When the day comes**, _lyrics and music by Seonghyeon Moon_  
+- 2018&nbsp;&nbsp;&nbsp;&nbsp;**Like this**, _lyrics and music by Seonghyeon Moon_  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;**The heart is just beating**, _lyrics and music by Seonghyeon Moon_  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;**Get over**, _lyrics and music by Seonghyeon Moon_  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;**Now I say**, A nuptial song for my friend, _lyrics and music by Seonghyeon Moon_  
+- 2017&nbsp;&nbsp;&nbsp;&nbsp;**I’m still**, _lyrics and music by Seonghyeon Moon_  
+- 2015&nbsp;&nbsp;&nbsp;&nbsp;**Theme song for the Department of Industrial Engineering**, Seoul National University, _lyrics and music by Seonghyeon Moon_  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;**Way home**, _lyrics and music by Seonghyeon Moon_  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;**Room of choice**, _lyrics and music by Seonghyeon Moon_  
+- 2014&nbsp;&nbsp;&nbsp;&nbsp;**Psychology of Interpersonal Relations**, _lyrics and music by Seonghyeon Moon_  
+- 2013&nbsp;&nbsp;&nbsp;&nbsp;**Lost in memories**, A cheering song for students, _lyrics and music by Seonghyeon Moon_  
+- 2014 – 2016&nbsp;&nbsp;&nbsp;&nbsp;**Fuze 19th**, Fusion jazz and funky band of Seoul National University  
+- 2011 – 2015&nbsp;&nbsp;&nbsp;&nbsp;**Bbongs**, Student rock band of the Department of Industrial Engineering, Seoul National University  
 
 ## REFERENCES
 
