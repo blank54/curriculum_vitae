@@ -1,4 +1,4 @@
-# Seonghyeon Moon, Ph.D.
+# Seonghyeon Boris Moon, Ph.D.
 
 Ph.D. (Construction Management)  
 Postdoctoral Research Fellow @Department of Civil and Environmental Engineering  
