@@ -117,8 +117,8 @@ _**Patent (Under Review)**_
 
 _**Software**_
 
-[6]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. x. x.) "3D Visualization of Environmental Information on Construction Site." (Korea, Program x-xxxx-xxxxxx) - _submitted on 03/14/2022_  
-[5]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2022. x. x.) "Deep Learning-based Construction Contract Review Program." (Korea, Program x-xxxx-xxxxxx) - _submitted on 03/11/2022_  
+[6]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. 3. 21.) "3D Mapping Software for Environmental Information on Construction Site." (Korea, Program C-2022-013870)  
+[5]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2022. 3. 21.) "Deep Learning-based Construction Contract Review Program." (Korea, Program C-2022-013869)  
 [4]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2021. 4. 28.) "Requirement Keyword Detection Program for Automated Review of Construction Specification." (Korea, Program C-2021-018339)  
 [3]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Lee, G., and **Moon, S.** (2021. 4. 27.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Program C-2021-018235)  
 [2]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Kim, T., and **Moon, S.** (2018. 5. 15.) "Semantic Search System for Risk Factor of Construction Accident" (Korea, Registration Number: C-2018-012345)  
@@ -289,9 +289,6 @@ Department of Civil and Environmental Engineering, Seoul National University, Se
 - 2020 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering
 
 ## PROFESSIONAL CERTIFICATES AND TRAINING
-
-2022&nbsp;&nbsp;&nbsp;&nbsp;**Serious Accident Punishment Act**  
-Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea
 
 2020&nbsp;&nbsp;&nbsp;&nbsp;**Project Feasibility Study and Cost Estimation**  
 Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea
