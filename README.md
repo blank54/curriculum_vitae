@@ -39,7 +39,7 @@ Seoul National University, Seoul, South Korea
 09/2020 – Present  
 **Postdoctoral Research Fellow**, Construction !nnovation Laboratory, Seoul National University, Seoul, Korea
 
-09/2020 – Present 
+09/2020 – Present  
 **Senior Researcher**, Institute of Construction and Environmental Engineering Seoul National University, Seoul, Korea
 
 09/2014 – 02/2015  
@@ -69,20 +69,21 @@ Seoul National University, Seoul, South Korea
 [2]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S., and Kim, D.Y.\* (2018). "Predicting Construction Cost Index Using the Autoregressive Fractional Integrated Moving Average (ARFIMA) Model." _Journal of Management in Engineering_, 34(2), 04017063. DOI: 10.1061/(asce)me.1943-5479.0000571. [Q1, SCI-E, 2021 IF 6.853]  
 [1]&nbsp;&nbsp;&nbsp;&nbsp;Zhang, H., Chi, S.\*, Yang, J., Nepal, M., and **Moon, S.** (2017). "Development of a Safety Inspection Framework on Construction Sites Using Mobile Computing." _Journal of Management in Engineering_, 33(3), 04016048. DOI: 10.1061/(ASCE)ME.1943-5479.0000495. [Q1, SCI-E, 2021 IF 6.853]  
 <div align='right'>
-\*Corresponding Author
+*Corresponding Author
 </div>
 
 ### Refereed Journal Articles (Domestic)
 
+[3]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Automated Construction Scheduling and Visualization by Countable-grid Scheduling Method (CSM)." _Korean Journal of Construction Engineering and Management_. – _submitted on 02/23/2022_  
 [2]&nbsp;&nbsp;&nbsp;&nbsp;Chung, S., **Moon, S.**, and Chi, S.\* (2018). "Bridge Damage Factor Recognition from Inspection Reports Using Deep Learning." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 621-625.  
 [1]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chung, S., and Chi, S.\* (2018). "Topic Modeling of News Article about International Construction Market Using Latent Dirichlet Allocation." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 595-599.  
 <div align='right'>
-\*Corresponding Author
+*Corresponding Author
 </div>
 
 ### Conference Proceedings
 
-[17]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Hwang, J., and Chi, S.\* (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_. [_Under Review_]  
+[17]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Hwang, J., Chi, S.\*, and Rim, D. (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_. [_Under Review_]  
 [16]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2021). "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method(DPPM)." _2021 KICEM Conference_, Gyeongju, South Korea.  
 [15]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chung, S., Lee, G., and Chi, S.\* (2021). "Provision Classification for Automated Construction Specification Review using Bidirectional Encoder Representations from Transformer (BERT)." _2021 KICEM Conference_, Gyeongju, South Korea.  
 [14]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Won, D., Yoon S., and Chi, S. (2021). "Real-time Construction Site Noise Mapping System Based on Sensing Data." _47th KSCE 2021 Civil Expo and Conference_, Gwangju, South Korea.  
@@ -100,7 +101,7 @@ Seoul National University, Seoul, South Korea
 [2]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Kim, D.Y., and Chi, S. (2015). "Feasibility of Using Non-parametric Time-series Method on Risk Analysis in Global Construction Market." _41th KSCE 2015 Civil Expo and Conference_, Gunsan, South Korea.  
 [1]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Kim, D.Y., and Chi, S. (2015). "Preliminary Study on Market Risk Prediction Model for International Construction Using Fractal Analysis." _6th International Conference on Construction Engineering and Project Management 2015_, Busan, South Korea.  
 <div align='right'>
-\*Corresponding Author
+*Corresponding Author
 </div>
 
 ### Intellectual Property Rights
@@ -129,19 +130,23 @@ _**Software**_
 
 ### Artificial Intelligence and Digital Transformation
 
-**04/2018 – 12/2019**  
+04/2018 – 12/2019  
 **Developing AI Program for Analyzing Asphalt Pavement Specifications Based on Big Data**  
 Daewoo Institute of Construction Technology, South Korea ($85,000)
 
-**03/2015 – 04/2017**  
+03/2015 – 04/2017  
 **Developing Web Intelligence Systems of Construction Tacit Knowledge Based on Text Mining**  
 National Research Foundation of Korea ($150,813)
 
-**06/2016 – 06/2018**  
+06/2016 – 06/2018  
 **Deep-Learning-Based Information Service System to Support Life-cycle Risk Management of Construction Projects**  
 Korea Agency for Infrastructure Technology Advancement ($100,000)
 
 ### Smart Construction and Automation
+
+04/2022 - 02/2026  
+**Automated Development of Manual-Free Construction Standard Video Dataset and Multi-Camera Vision-based Site Monitoring**  
+National Research Foundation of Korea ($1,003,849)  
 
 04/2020 – 12/2025  
 **Smart Construction Technology Development Project through Field Operation on Roads: Development of Information Collection and Analysis Technology in Construction Site**  
@@ -153,15 +158,15 @@ Korea Agency for Infrastructure Technology Advancement ($565,000)
 
 ### Project Risk Management
 
-04/2018 – 12/2018 
+04/2018 – 12/2018  
 **Analyzing Causes of Safety Accidents in the Metropolitan Road Construction Project**  
 Wooseok Construction, South Korea ($27,200)
 
-07/2014 – 03/2017 
+07/2014 – 03/2017  
 **Construction Information and Knowledge HUB Center**  
 Korea Agency for Infrastructure Technology Advancement ($990,000)
 
-07/2014 – 03/2017 
+07/2014 – 03/2017  
 **Development of Decision Support System for Early Warning and Mitigation to Mega-Shock in International Construction Market**  
 National Research Foundation of Korea ($102,180)
 
@@ -285,6 +290,7 @@ Department of Civil and Environmental Engineering, Seoul National University, Se
 
 ## Journal Review
 
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Sustainability
 - 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics
 - 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science
 - 2020 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering
