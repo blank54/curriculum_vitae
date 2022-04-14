@@ -113,7 +113,7 @@ _**Patent (Registered)**_
 _**Patent (Under Review)**_
 
 [4]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2022. x. x.) "Automated Review System for Construction Contract Documents using Semantic Text Analysis." (Korea, Application Number: xx-xxxx-xxxxxxx)  
-[3]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Chung, S., and **Moon, S.** (2022. x. x.) "Method for Extraction of Bridge Damage Mechanism from Inspection Reports Using Bi-directional Recurrent Neural Network and Active Learning" (Korea, Application Number: xx-xxxx-xxxxxxx)  
+[3]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Chung, S., and **Moon, S.** (2022. 4. 6.) "Method for Extraction of Bridge Damage Mechanism from Inspection Reports Using Bi-directional Recurrent Neural Network and Active Learning" (Korea, Application Number: 10-2022-0042645)  
 [2]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2021. 7. 28.) "Techniques for Keyword Extraction on Construction Contract Document using Deep Learning-based Named Entity Recognition." (Korea, Application Number: 10-2021-0099244)  
 [1]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Lee, G., and **Moon, S.** (2021. 7. 22.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Application Number: 10-2021-0095986)  
 
