@@ -74,7 +74,7 @@ Seoul National University, Seoul, South Korea
 
 ### Refereed Journal Articles (Domestic)
 
-[3]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Automated Construction Scheduling and Visualization by Countable-grid Scheduling Method (CSM)." _Korean Journal of Construction Engineering and Management_. – _submitted on 02/23/2022_  
+[3]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Automated Construction Scheduling and Visualization by Countable-grid Scheduling Method (CSM)." _Korean Journal of Construction Engineering and Management_. [_Under Review_] – _submitted on 02/23/2022_  
 [2]&nbsp;&nbsp;&nbsp;&nbsp;Chung, S., **Moon, S.**, and Chi, S.\* (2018). "Bridge Damage Factor Recognition from Inspection Reports Using Deep Learning." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 621-625.  
 [1]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chung, S., and Chi, S.\* (2018). "Topic Modeling of News Article about International Construction Market Using Latent Dirichlet Allocation." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 595-599.  
 <div align='right'>
@@ -119,7 +119,7 @@ _**Patent (Under Review)**_
 
 _**Software**_
 
-[6]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. 3. 21.) "3D Mapping Software for Environmental Information on Construction Site." (Korea, Program C-2022-013870)  
+[6]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Lim, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. 3. 21.) "3D Mapping Software for Environmental Information on Construction Site." (Korea, Program C-2022-013870)  
 [5]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2022. 3. 21.) "Deep Learning-based Construction Contract Review Program." (Korea, Program C-2022-013869)  
 [4]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2021. 4. 28.) "Requirement Keyword Detection Program for Automated Review of Construction Specification." (Korea, Program C-2021-018339)  
 [3]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Lee, G., and **Moon, S.** (2021. 4. 27.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Program C-2021-018235)  
