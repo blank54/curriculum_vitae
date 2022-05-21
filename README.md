@@ -58,7 +58,7 @@ Seoul National University, Seoul, South Korea
 
 ### Refereed Journal Articles (International)
 
-[11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Building Engineering_. [_Under Review_, Q1, SCI-E, 2021 IF 5.318] - _submitted on 05/20/2022_
+[11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Building Engineering_. [_Under Review_, Q1, SCI-E, 2021 IF 5.318] - _submitted on 05/20/2022_  
 [10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_. [_Under Review_, Q1, SCI-E, 2021 IF 7.700] – _submitted on 03/29/2022_  
 [9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. [_Under Review_, Q1, SCI-E, 2021 IF 3.531] - _submitted on 10/24/2021_.  
 [8]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 5.603]  
