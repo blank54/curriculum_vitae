@@ -58,9 +58,9 @@ Seoul National University, Seoul, South Korea
 
 ### Refereed Journal Articles (International)
 
-[11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Building Engineering_. [_Under Review_, Q1, SCI-E, 2021 IF 5.318] - _submitted on 05/20/2022_  
+[11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_. [_Under Review_, Q1, SCI-E, 2021 IF 5.318] - _submitted on 05/20/2022_  
 [10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_. [_Under Review_, Q1, SCI-E, 2021 IF 7.700] – _submitted on 03/29/2022_  
-[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. [_Under Review_, Q1, SCI-E, 2021 IF 3.531] - _submitted on 10/24/2021_.  
+[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. [_Under Review_, Q1, SCI-E, 2021 IF 3.531] - _Accepted on 05/27/2022_.  
 [8]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 5.603]  
 [7]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Kim, D.Y.\* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." _KSCE Journal of Civil Engineering_, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q2, SCI-E, 2021 IF 1.805]  
 [6]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." _Automation in Construction_, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2021 IF 7.700]  
@@ -258,7 +258,7 @@ Civil and Environmental Project Management, Seoul National University (2015, 201
 2017&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
 Construction Information System Management, Seoul National University
 
-2017&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
+2017, 2022&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
 Construction Planning and Management, Seoul National University
 
 2011 – 2015&nbsp;&nbsp;&nbsp;&nbsp;**Mentor**  
