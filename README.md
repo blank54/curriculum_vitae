@@ -60,7 +60,7 @@ Seoul National University, Seoul, South Korea
 
 [11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_. [_Under Review_, Q1, SCI-E, 2021 IF 5.318] - _submitted on 05/20/2022_  
 [10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_. [_Under Review_, Q1, SCI-E, 2021 IF 7.700] – _submitted on 03/29/2022_  
-[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. [_Under Review_, Q1, SCI-E, 2021 IF 3.531] - _Accepted on 05/27/2022_.  
+[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. [_Accepted_, Q1, SCI-E, 2021 IF 3.531]  
 [8]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 5.603]  
 [7]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Kim, D.Y.\* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." _KSCE Journal of Civil Engineering_, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q2, SCI-E, 2021 IF 1.805]  
 [6]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." _Automation in Construction_, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2021 IF 7.700]  
@@ -84,7 +84,8 @@ Seoul National University, Seoul, South Korea
 
 ### Conference Proceedings
 
-[17]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Hwang, J., Chi, S.\*, and Rim, D. (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_. [_Under Review_]  
+[18]&nbsp;&nbsp;&nbsp;&nbsp;Kim, J., Chung, S., **Moon, S.**, and Chi, S. (2022). "Feasibility Study of a BERT-based Question Answering Chatbot for Information Retrieval from Construction Specifications." _IEEM_. [_Under Review_] - _submitted on 06/02/2022_  
+[17]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Hwang, J., Chi, S.\*, and Rim, D. (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_. - _Accepted_  
 [16]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2021). "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method(DPPM)." _2021 KICEM Conference_, Gyeongju, South Korea.  
 [15]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chung, S., Lee, G., and Chi, S.\* (2021). "Provision Classification for Automated Construction Specification Review using Bidirectional Encoder Representations from Transformer (BERT)." _2021 KICEM Conference_, Gyeongju, South Korea.  
 [14]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Won, D., Yoon S., and Chi, S. (2021). "Real-time Construction Site Noise Mapping System Based on Sensing Data." _47th KSCE 2021 Civil Expo and Conference_, Gwangju, South Korea.  
@@ -109,7 +110,7 @@ Seoul National University, Seoul, South Korea
 
 _**Patent (Registered)**_
 
-[1]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H, Chi, S., and **Moon, S.** (2021. 05. 20.) "Construction process navigation providing method." (Korea, Publication No. 10-2315373)  
+[1]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H, Chi, S., and **Moon, S.** (2021. 5. 20.) "Construction process navigation providing method." (Korea, Publication No. 10-2315373)  
 
 _**Patent (Under Review)**_
 
@@ -252,8 +253,8 @@ Construction !nnovation Laboratory, Seoul National University
 2015 – 2021&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
 Construction Methods and Equipment, Seoul National University (2015, 2018, 2020, 2021)
 
-2015 – 2018&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
-Civil and Environmental Project Management, Seoul National University (2015, 2016, 2018)
+2015 – 2022&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
+Civil and Environmental Project Management, Seoul National University (2015, 2016, 2018, 2022)
 
 2017&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
 Construction Information System Management, Seoul National University
