@@ -312,29 +312,29 @@ Human Resources Development Service of Korea
 
 ### Graduate Student
 
+- Jungyeon Kim (2021.01. - Present; Automated Question-Answering System for Construction Specification Review)  
+- Gitaek Lee (2017.03. - Present; Reference Section Identification of Construction Specifications; Noise Mapping in Construction Site)  
+- Taeyeon Chang (2017.03. - Present; Infrastructure Maintenane and Management by Analyzing BMS Data)- Sehwan Chung (2016.03. - Present; Damage Mechanism Identification from Bridge Inspection Report Using Natural Language Processing)  
+- Daeyoun Won (2016.09. - Present; UAV-based Road Construction Site Monitoring)  
+
 - Seungmo Lim (2021.07. - 2022.01.; 3D Mapping of Road Construction Site based on Unity)  
 - Heungsoon Choi (2021.04. - 2022.02.; Grid-based Construction Activity Navigation)  
-- Jungyeon Kim (2021.01. - Present; Automated Question-Answering System for Construction Specification Review)  
 - Sihoo Yoon (2020.09. - 2021.08.; Analysis of Emission Factor of Construction Equipment)  
 - Geonwoo Kim (2018.09. - 2020.08.; Pre-trained Natural Language Processing Model for Construction Domain Customization)  
 - Chanhyuk Park (2017.09. - 2019.08.; Text Mining on Non-conformance Report of Construction Site)  
-- Gitaek Lee (2017.03. - Present; Reference Section Identification of Construction Specifications; Noise Mapping in Construction Site)  
-- Taeyeon Chang (2017.03. - Present; Infrastructure Maintenane and Management by Analyzing BMS Data)  
 - Jaeyoung Park (2016.09. - 2018.08.; Internal Communication Effectiveness Model for Construction Company)  
-- Daeyoun Won (2016.09. - 2022.08.; UAV-based Road Construction Site Monitoring)  
 - Taek-hyung Kim (2016.09. - 2018.02.; Hazard Factor Identification from Construction Accident Reports Using Natural Language Processing)  
-- Sehwan Chung (2016.03. - Present; Damage Mechanism Identification from Bridge Inspection Report Using Natural Language Processing)  
 - Seonsu Mok (2016.03. - 2018.02.; )  
 
 ### Undergraduate Student
 
-- Seongju Jang (2022.07. - 2022.08.; Construction Noise Filtering)  
-- Seok Tae Kim (2022.07. - 2022.08.; Impact of Equipment Vibration to Construction Worker)  
+- Seongju Jang (2022.07. - Present; Construction Noise Filtering)  
+- Seok Tae Kim (2022.07. - Present; Impact of Equipment Vibration to Construction Worker)  
+
 - Seongho Park (2022.03. - 2022.04.; Obstable Detection of Construction Site Using UAV)  
 - Soo Hyun Kim (2022.02. - 2022.06.; Noise Mapping in Construction Site Using Deep Learning)  
 - Junseong Park (2021.10. - 2021.12.; Correlationship between Text and Numeric Data in Construction Market)  
 - Jaeyoung Jang (2020.07. - 2021.02.; Automatic Summarization of Construction Document)  
-
 
 ## PERSONAL ACTIVITIES
 
