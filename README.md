@@ -59,8 +59,8 @@ Seoul National University, Seoul, South Korea
 ### Refereed Journal Articles (International)
 
 [11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_. [_Under Review_, Q1, SCI-E, 2021 IF 5.318] - _submitted on 05/20/2022_  
-[10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, accepted on 06/26/2022. [_In Press_, Q1, SCI-E, 2021 IF 7.700]  
-[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. [_Online Published_, Q2, SCI-E, 2021 IF 3.531]  
+[10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, 142, 104465. DOI: 10.1016/j.autcon.2022.104465 [_Online Published_, Q1, SCI-E, 2021 IF 7.700]  
+[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. DOI: 10.1108/ECAM-10-2021-0920 [Q2, SCI-E, 2021 IF 3.531]  
 [8]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 5.603]  
 [7]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Kim, D.Y.\* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." _KSCE Journal of Civil Engineering_, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q2, SCI-E, 2021 IF 1.805]  
 [6]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." _Automation in Construction_, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2021 IF 7.700]  
@@ -75,7 +75,7 @@ Seoul National University, Seoul, South Korea
 
 ### Refereed Journal Articles (Domestic)
 
-[3]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Automated Construction Scheduling and Visualization by Countable-grid Scheduling Method (CSM)." _Korean Journal of Construction Engineering and Management_. [_Under Review_] – _submitted on 02/23/2022_  
+[3]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Automated Construction Scheduling and Visualization by Countable-grid Scheduling Method (CSM)." _Korean Journal of Construction Engineering and Management_, accepted on 07/06/2022. [_In Press_]  
 [2]&nbsp;&nbsp;&nbsp;&nbsp;Chung, S., **Moon, S.**, and Chi, S.\* (2018). "Bridge Damage Factor Recognition from Inspection Reports Using Deep Learning." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 621-625.  
 [1]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chung, S., and Chi, S.\* (2018). "Topic Modeling of News Article about International Construction Market Using Latent Dirichlet Allocation." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 595-599.  
 <div align='right'>
@@ -312,27 +312,29 @@ Human Resources Development Service of Korea
 
 ### Graduate Student
 
-- Jungyeon Kim (2021.01. - _Present_; Automated Question-Answering System for Construction Specification Review)  
-- Gitaek Lee (2017.03. - _Present_; Reference Section Identification of Construction Specifications; Noise Mapping in Construction Site)  
-- Taeyeon Chang (2017.03. - _Present_; Infrastructure Maintenane and Management by Analyzing BMS Data)- Sehwan Chung (2016.03. - _Present_; Damage Mechanism Identification from Bridge Inspection Report Using Natural Language Processing)  
-- Daeyoun Won (2016.09. - _Present_; UAV-based Road Construction Site Monitoring)  
-- Seungmo Lim (2021.07. - 2022.01.; 3D Mapping of Road Construction Site based on Unity)  
-- Heungsoon Choi (2021.04. - 2022.02.; Grid-based Construction Activity Navigation)  
-- Sihoo Yoon (2020.09. - 2021.08.; Analysis of Emission Factor of Construction Equipment)  
-- Geonwoo Kim (2018.09. - 2020.08.; Pre-trained Natural Language Processing Model for Construction Domain Customization)  
-- Chanhyuk Park (2017.09. - 2019.08.; Text Mining on Non-conformance Report of Construction Site)  
-- Jaeyoung Park (2016.09. - 2018.08.; Internal Communication Effectiveness Model for Construction Company)  
-- Taek-hyung Kim (2016.09. - 2018.02.; Hazard Factor Identification from Construction Accident Reports Using Natural Language Processing)  
-- Seonsu Mok (2016.03. - 2018.02.; Internal Competency of Contractor and Market Conditions for Overseas Diversification Strategy)  
+- Jae Hyun Hwang (09/2021 - _Present_) : Dust Mapping in Construction Site
+- Jungyeon Kim (01/2021 - _Present_) : Automated Question-Answering System for Construction Specification Review  
+- Gitaek Lee (03/2017 - _Present_) : Reference Section Identification of Construction Specifications; Noise Mapping in Construction Site  
+- Taeyeon Chang (03/2017 - _Present_) : Infrastructure Maintenane and Management by Analyzing BMS Data)  
+- Sehwan Chung (03/2016 - _Present_) : Damage Mechanism Identification from Bridge Inspection Report Using Natural Language Processing  
+- Daeyoun Won (09/2016 - _Present_) : UAV-based Road Construction Site Monitoring  
+- Seungmo Lim (07/2021 - 01/2022) : 3D Mapping of Road Construction Site based on Unity  
+- Heungsoon Choi (04/2021 - 02/2022) : Grid-based Construction Activity Navigation  
+- Sihoo Yoon (09/2020 - 08/2021) : Analysis of Emission Factor of Construction Equipment  
+- Geonwoo Kim (09/2018 - 08/2020) : Pre-trained Natural Language Processing Model for Construction Domain Customization  
+- Chanhyuk Park (09/2017 - 08/2019) : Text Mining on Non-conformance Report of Construction Site  
+- Jaeyoung Park (09/2016 - 08/2018) : Internal Communication Effectiveness Model for Construction Company  
+- Taek-hyung Kim (09/2016 - 02/2018) : Hazard Factor Identification from Construction Accident Reports Using Natural Language Processing  
+- Seonsu Mok (03/2016 - 02/2018) : Internal Competency of Contractor and Market Conditions for Overseas Diversification Strategy  
 
 ### Undergraduate Student
 
-- Seongju Jang (2022.07. - _Present_; Construction Noise Filtering)  
-- Seok Tae Kim (2022.07. - _Present_; Impact of Equipment Vibration to Construction Worker)  
-- Seongho Park (2022.03. - 2022.04.; Obstable Detection of Construction Site Using UAV)  
-- Soo Hyun Kim (2022.02. - 2022.06.; Noise Mapping in Construction Site Using Deep Learning)  
-- Junseong Park (2021.10. - 2021.12.; Correlationship between Text and Numeric Data in Construction Market)  
-- Jaeyoung Jang (2020.07. - 2021.02.; Automatic Summarization of Construction Document)  
+- Seongju Jang (07/2022 - _Present_) : Construction Noise Filtering  
+- Seok Tae Kim (07/2022 - _Present_) : Vibration Mapping in Construction Site  
+- Seongho Park (03/2022 - 04/2022) : Obstable Detection of Construction Site Using UAV  
+- Soo Hyun Kim (02/2022 - 06/2022) : Noise Mapping in Construction Site Using Deep Learning  
+- Junseong Park (10/2021 - 12/2021) : Correlationship between Text and Numeric Data in Construction Market  
+- Jaeyoung Jang (07/2020 - 02/2021) : Automatic Summarization of Construction Document  
 
 ## PERSONAL ACTIVITIES
 
