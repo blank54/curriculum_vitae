@@ -40,7 +40,7 @@ Seoul National University, Seoul, South Korea
 **Postdoctoral Research Fellow**, Construction !nnovation Laboratory, Seoul National University, Seoul, Korea
 
 09/2020 – Present  
-**Senior Researcher**, Institute of Construction and Environmental Engineering Seoul National University, Seoul, Korea
+**Senior Researcher**, Institute of Construction and Environmental Engineering, Seoul National University, Seoul, Korea
 
 09/2014 – 02/2015  
 **Undergraduate Internship**, Construction !nnovation Laboratory, Seoul National University, Seoul, South Korea
@@ -59,8 +59,8 @@ Seoul National University, Seoul, South Korea
 ### Refereed Journal Articles (International)
 
 [11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_. [_Under Review_, Q1, SCI-E, 2021 IF 5.318] - _submitted on 05/20/2022_  
-[10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, 142, 104465. DOI: 10.1016/j.autcon.2022.104465 [_Online Published_, Q1, SCI-E, 2021 IF 7.700]  
-[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. DOI: 10.1108/ECAM-10-2021-0920 [Q2, SCI-E, 2021 IF 3.531]  
+[10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, 142, 104465. DOI: 10.1016/j.autcon.2022.104465 [Q1, SCI-E, 2021 IF 7.700]  
+[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. DOI: 10.1108/ECAM-10-2021-0920 [_Online Published_, Q2, SCI-E, 2021 IF 3.531]  
 [8]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 5.603]  
 [7]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Kim, D.Y.\* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." _KSCE Journal of Civil Engineering_, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q2, SCI-E, 2021 IF 1.805]  
 [6]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." _Automation in Construction_, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2021 IF 7.700]  
@@ -75,7 +75,7 @@ Seoul National University, Seoul, South Korea
 
 ### Refereed Journal Articles (Domestic)
 
-[3]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Automated Construction Scheduling and Visualization by Countable-grid Scheduling Method (CSM)." _Korean Journal of Construction Engineering and Management_, accepted on 07/06/2022. [_In Press_]  
+[3]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Countable-grid Scheduling Method (CSM) and CSM-based Soft-logic Algorithm Development for Automated Construction Scheduling and Visualization." _Korean Journal of Construction Engineering and Management_, 23(4), 65-77. DOI: 10.6106/KJCEM.2022.23.4.065.  
 [2]&nbsp;&nbsp;&nbsp;&nbsp;Chung, S., **Moon, S.**, and Chi, S.\* (2018). "Bridge Damage Factor Recognition from Inspection Reports Using Deep Learning." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 621-625.  
 [1]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chung, S., and Chi, S.\* (2018). "Topic Modeling of News Article about International Construction Market Using Latent Dirichlet Allocation." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 595-599.  
 <div align='right'>
@@ -84,8 +84,8 @@ Seoul National University, Seoul, South Korea
 
 ### Conference Proceedings
 
-[18]&nbsp;&nbsp;&nbsp;&nbsp;Kim, J., Chung, S., **Moon, S.**, and Chi, S. (2022). "Feasibility Study of a BERT-based Question Answering Chatbot for Information Retrieval from Construction Specifications." _IEEM_. [_Under Review_] - _submitted on 06/02/2022_  
-[17]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Hwang, J., Chi, S.\*, and Rim, D. (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_. - _Accepted_  
+[18]&nbsp;&nbsp;&nbsp;&nbsp;Kim, J., Chung, S., **Moon, S.**, and Chi, S. (2022). "Feasibility Study of a BERT-based Question Answering Chatbot for Information Retrieval from Construction Specifications." _International Conference on Industrial Engineering and Engineering Management (IEEM)_. [_Under Review_] - _submitted on 06/02/2022_  
+[17]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Hwang, J., Chi, S.\*, and Rim, D. (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_, Aarhus, Denmark.  
 [16]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2021). "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method(DPPM)." _2021 KICEM Conference_, Gyeongju, South Korea.  
 [15]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chung, S., Lee, G., and Chi, S.\* (2021). "Provision Classification for Automated Construction Specification Review using Bidirectional Encoder Representations from Transformer (BERT)." _2021 KICEM Conference_, Gyeongju, South Korea.  
 [14]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Won, D., Yoon S., and Chi, S. (2021). "Real-time Construction Site Noise Mapping System Based on Sensing Data." _47th KSCE 2021 Civil Expo and Conference_, Gwangju, South Korea.  
@@ -110,17 +110,18 @@ Seoul National University, Seoul, South Korea
 
 _**Patent (Registered)**_
 
-[1]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H, Chi, S., and **Moon, S.** (2021. 5. 20.) "Construction process navigation providing method." (Korea, Publication No. 10-2315373)  
+[1]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H, Chi, S., and **Moon, S.** (2021. 5. 20.) "Construction Process Navigation Providing Method." (Korea, Publication No. 10-2315373)  
 
 _**Patent (Under Review)**_
 
 [4]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2022. 5. 17.) "Method and Device for Automatic Review Construction Contract Documents using Semantic Text Analysis." (Korea, Application Number: 10-2022-0060293)  
 [3]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Chung, S., and **Moon, S.** (2022. 4. 6.) "Method for Extraction of Bridge Damage Mechanism from Inspection Reports Using Bi-directional Recurrent Neural Network and Active Learning." (Korea, Application Number: 10-2022-0042645)  
 [2]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2021. 7. 28.) "Techniques for Keyword Extraction on Construction Contract Document using Deep Learning-based Named Entity Recognition." (Korea, Application Number: 10-2021-0099244)  
-[1]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Lee, G., and **Moon, S.** (2021. 7. 22.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Application Number: 10-2021-0095986)  
+[1]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Lee, G., and **Moon, S.** (2021. 7. 21.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Application Number: 10-2021-0095986)  
 
 _**Software**_
 
+[7]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Jang, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. 9. 5.) "Deep Learning-based Construction Site Noise Classification Program." (Republic of Korea, Program C-2022-035160)  
 [6]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Lim, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. 3. 21.) "3D Mapping Software for Environmental Information on Construction Site." (Korea, Program C-2022-013870)  
 [5]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2022. 3. 21.) "Deep Learning-based Construction Contract Review Program." (Korea, Program C-2022-013869)  
 [4]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Lee, G. (2021. 4. 28.) "Requirement Keyword Detection Program for Automated Review of Construction Specification." (Korea, Program C-2021-018339)  
@@ -131,6 +132,10 @@ _**Software**_
 ## RESEARCH PROJECTS (participated)
 
 ### Artificial Intelligence and Digital Transformation
+
+09/2022 - 12/2024  
+**Land and Infrastructure Safety Big Data Platform Project**  
+Mobigen (Consigned by Korea Authority of Land & Infrastructure Safety) ($425,000)
 
 04/2018 – 12/2019  
 **Developing AI Program for Analyzing Asphalt Pavement Specifications Based on Big Data**  
@@ -292,6 +297,7 @@ Department of Civil and Environmental Engineering, Seoul National University, Se
 
 ## Journal Review
 
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Artificial Intelligence
 - 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Sustainability
 - 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics
 - 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science
@@ -317,7 +323,7 @@ Human Resources Development Service of Korea
 - Gitaek Lee (03/2017 - _Present_) : Reference Section Identification of Construction Specifications; Noise Mapping in Construction Site  
 - Taeyeon Chang (03/2017 - _Present_) : Infrastructure Maintenane and Management by Analyzing BMS Data)  
 - Sehwan Chung (03/2016 - _Present_) : Damage Mechanism Identification from Bridge Inspection Report Using Natural Language Processing  
-- Daeyoun Won (09/2016 - _Present_) : UAV-based Road Construction Site Monitoring  
+- Daeyoun Won (09/2016 - 08/2022) : UAV-based Road Construction Site Monitoring  
 - Seungmo Lim (07/2021 - 01/2022) : 3D Mapping of Road Construction Site based on Unity  
 - Heungsoon Choi (04/2021 - 02/2022) : Grid-based Construction Activity Navigation  
 - Sihoo Yoon (09/2020 - 08/2021) : Analysis of Emission Factor of Construction Equipment  
@@ -329,8 +335,8 @@ Human Resources Development Service of Korea
 
 ### Undergraduate Student
 
-- Seongju Jang (07/2022 - _Present_) : Construction Noise Filtering  
-- Seok Tae Kim (07/2022 - _Present_) : Vibration Mapping in Construction Site  
+- Seongju Jang (07/2022 - 08/2022) : Construction Noise Filtering  
+- Seok Tae Kim (07/2022 - 08/2022) : Vibration Mapping in Construction Site  
 - Seongho Park (03/2022 - 04/2022) : Obstable Detection of Construction Site Using UAV  
 - Soo Hyun Kim (02/2022 - 06/2022) : Noise Mapping in Construction Site Using Deep Learning  
 - Junseong Park (10/2021 - 12/2021) : Correlationship between Text and Numeric Data in Construction Market  
