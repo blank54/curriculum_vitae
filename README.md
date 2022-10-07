@@ -5,8 +5,8 @@ Postdoctoral Research Fellow @Department of Civil and Environmental Engineering
 Senior Researcher @Institute of Construction and Environmental Engineering  
 Seoul National University
 
-35-219, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, South Korea  
-**T** +82 2 880 7370 | **M** +82 10 3054 1528  
+35-427, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, South Korea  
+**T** +82 2 880 4146 | **M** +82 10 3054 1528  
 **E** blank54@snu.ac.kr | **G** github.com/blank54
 
 ---
@@ -272,6 +272,9 @@ Service Teaching Program of Korean University Confederation "Gongsin"
 
 ## PROFESSIONAL PRESENTATIONS AND WORKSHOPS
 
+2022&nbsp;&nbsp;&nbsp;&nbsp;**Research Trends in Construction Management**  
+Republic of Korea Army, Daejeon, South Korea. (2022. 9. 26.)
+
 2021&nbsp;&nbsp;&nbsp;&nbsp;**Environmental Information Sensing on Construction Site**  
 Korea Agency for Infrastructure Technology Advancement, Seoul, South Korea. (2021. 10. 27.)
 
@@ -297,6 +300,8 @@ Department of Civil and Environmental Engineering, Seoul National University, Se
 
 ## Journal Review
 
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Machine Learning and Knowledge Extraction
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Energies
 - 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Artificial Intelligence
 - 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Sustainability
 - 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics
@@ -304,6 +309,9 @@ Department of Civil and Environmental Engineering, Seoul National University, Se
 - 2020 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering
 
 ## PROFESSIONAL CERTIFICATES AND TRAINING
+
+2022&nbsp;&nbsp;&nbsp;&nbsp;**Scan to BIM**  
+AI Research Institute, Seoul National University, Seoul, South Korea  
 
 2020&nbsp;&nbsp;&nbsp;&nbsp;**Project Feasibility Study and Cost Estimation**  
 Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea
@@ -321,15 +329,15 @@ Human Resources Development Service of Korea
 - Jae Hyun Hwang (09/2021 - _Present_) : Dust Mapping in Construction Site
 - Jungyeon Kim (01/2021 - _Present_) : Automated Question-Answering System for Construction Specification Review  
 - Gitaek Lee (03/2017 - _Present_) : Reference Section Identification of Construction Specifications; Noise Mapping in Construction Site  
-- Taeyeon Chang (03/2017 - _Present_) : Infrastructure Maintenane and Management by Analyzing BMS Data)  
+- Taeyeon Chang (03/2017 - _Present_) : Infrastructure Maintenance and Management by Analyzing BMS Data)  
 - Sehwan Chung (03/2016 - _Present_) : Damage Mechanism Identification from Bridge Inspection Report Using Natural Language Processing  
 - Daeyoun Won (09/2016 - 08/2022) : UAV-based Road Construction Site Monitoring  
 - Seungmo Lim (07/2021 - 01/2022) : 3D Mapping of Road Construction Site based on Unity  
 - Heungsoon Choi (04/2021 - 02/2022) : Grid-based Construction Activity Navigation  
 - Sihoo Yoon (09/2020 - 08/2021) : Analysis of Emission Factor of Construction Equipment  
-- Geonwoo Kim (09/2018 - 08/2020) : Pre-trained Natural Language Processing Model for Construction Domain Customization  
+- Geonwoo Kim (09/2018 - 08/2020) : Pre-trained Natural Language Processing Model in Construction Domain  
 - Chanhyuk Park (09/2017 - 08/2019) : Text Mining on Non-conformance Report of Construction Site  
-- Jaeyoung Park (09/2016 - 08/2018) : Internal Communication Effectiveness Model for Construction Company  
+- Jaeyoung Park (09/2016 - 08/2018) : Internal Communication Effectiveness Model of Construction Company  
 - Taek-hyung Kim (09/2016 - 02/2018) : Hazard Factor Identification from Construction Accident Reports Using Natural Language Processing  
 - Seonsu Mok (03/2016 - 02/2018) : Internal Competency of Contractor and Market Conditions for Overseas Diversification Strategy  
 
@@ -337,9 +345,9 @@ Human Resources Development Service of Korea
 
 - Seongju Jang (07/2022 - 08/2022) : Construction Noise Filtering  
 - Seok Tae Kim (07/2022 - 08/2022) : Vibration Mapping in Construction Site  
-- Seongho Park (03/2022 - 04/2022) : Obstable Detection of Construction Site Using UAV  
+- Seongho Park (03/2022 - 04/2022) : Obstacle Detection of Construction Site Using UAV  
 - Soo Hyun Kim (02/2022 - 06/2022) : Noise Mapping in Construction Site Using Deep Learning  
-- Junseong Park (10/2021 - 12/2021) : Correlationship between Text and Numeric Data in Construction Market  
+- Junseong Park (10/2021 - 12/2021) : Relationship between Text and Numeric Data in Construction Market  
 - Jaeyoung Jang (07/2020 - 02/2021) : Automatic Summarization of Construction Document  
 
 ## PERSONAL ACTIVITIES
