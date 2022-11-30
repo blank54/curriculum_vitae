@@ -7,7 +7,8 @@ Seoul National University
 
 35-427, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, South Korea  
 **T** +82 2 880 4146 | **M** +82 10 3054 1528  
-**E** blank54@snu.ac.kr | **G** github.com/blank54
+**E** blank54@snu.ac.kr | **G** github.com/blank54  
+**KRI** 1298 0388
 
 ---
 
@@ -58,17 +59,17 @@ Seoul National University, Seoul, South Korea
 
 ### Refereed Journal Articles (International)
 
-[11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_. [_Under Review_, Q1, SCI-E, 2021 IF 5.318] - _submitted on 05/20/2022_  
-[10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, 142, 104465. DOI: 10.1016/j.autcon.2022.104465 [Q1, SCI-E, 2021 IF 7.700]  
-[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. DOI: 10.1108/ECAM-10-2021-0920 [_Online Published_, Q2, SCI-E, 2021 IF 3.531]  
-[8]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 5.603]  
-[7]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Kim, D.Y.\* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." _KSCE Journal of Civil Engineering_, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q2, SCI-E, 2021 IF 1.805]  
-[6]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." _Automation in Construction_, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2021 IF 7.700]  
-[5]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., Chi, S.\*, and Oh, H. (2021). "Automated Construction Specification Review with Named Entity Recognition Using Natural Language Processing." _Journal of Construction Engineering and Management_, 147(1), 04020147. DOI: 10.1061/(asce)co.1943-7862.0001953. [Q1, SCI-E, 2021 IF 3.951]  
-[4]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chung, S., and Chi, S.\* (2020). "Bridge Damage Recognition from Inspection Reports Using NER Based on Recurrent Neural Network with Active Learning." _Journal of Performance of Constructed Facilities_, 34(6), 04020119. DOI: 10.1061/(ASCE)CF.1943-5509.0001530. [Q1, SCI-E, 2021 IF 2.372]  
-[3]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Shin, Y., Hwang, B.G., and Chi, S.\* (2018). "Document Management System Using Text Mining for Information Acquisition of International Construction." _KSCE Journal of Civil Engineering_, 22(12), 4791-4798. DOI: 10.1007/s12205-018-1528-y. [Q2, SCI-E, 2021 IF 1.805]  
-[2]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S., and Kim, D.Y.\* (2018). "Predicting Construction Cost Index Using the Autoregressive Fractional Integrated Moving Average (ARFIMA) Model." _Journal of Management in Engineering_, 34(2), 04017063. DOI: 10.1061/(asce)me.1943-5479.0000571. [Q1, SCI-E, 2021 IF 6.853]  
-[1]&nbsp;&nbsp;&nbsp;&nbsp;Zhang, H., Chi, S.\*, Yang, J., Nepal, M., and **Moon, S.** (2017). "Development of a Safety Inspection Framework on Construction Sites Using Mobile Computing." _Journal of Management in Engineering_, 33(3), 04016048. DOI: 10.1061/(ASCE)ME.1943-5479.0000495. [Q1, SCI-E, 2021 IF 6.853]  
+[11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_. [_Accepted_, Q1, SCI-E, 2021 IF 6.415] - _submitted on 05/20/2022_  
+[10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, 142, 104465. DOI: 10.1016/j.autcon.2022.104465 [Q1, SCI-E, 2021 IF 10.517]  
+[9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. DOI: 10.1108/ECAM-10-2021-0920 [_Online Published_, Q2, SCI-E, 2021 IF 3.850]  
+[8]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 7.862]  
+[7]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., **Moon, S.**, and Kim, D.Y.\* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." _KSCE Journal of Civil Engineering_, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q3, SCI-E, 2021 IF 2.115]  
+[6]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." _Automation in Construction_, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2021 IF 10.517]  
+[5]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., Chi, S.\*, and Oh, H. (2021). "Automated Construction Specification Review with Named Entity Recognition Using Natural Language Processing." _Journal of Construction Engineering and Management_, 147(1), 04020147. DOI: 10.1061/(asce)co.1943-7862.0001953. [Q1, SCI-E, 2021 IF 5.292]  
+[4]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chung, S., and Chi, S.\* (2020). "Bridge Damage Recognition from Inspection Reports Using NER Based on Recurrent Neural Network with Active Learning." _Journal of Performance of Constructed Facilities_, 34(6), 04020119. DOI: 10.1061/(ASCE)CF.1943-5509.0001530. [Q3, SCI-E, 2021 IF 2.317]  
+[3]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Shin, Y., Hwang, B.G., and Chi, S.\* (2018). "Document Management System Using Text Mining for Information Acquisition of International Construction." _KSCE Journal of Civil Engineering_, 22(12), 4791-4798. DOI: 10.1007/s12205-018-1528-y. [Q3, SCI-E, 2021 IF 2.115]  
+[2]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S., and Kim, D.Y.\* (2018). "Predicting Construction Cost Index Using the Autoregressive Fractional Integrated Moving Average (ARFIMA) Model." _Journal of Management in Engineering_, 34(2), 04017063. DOI: 10.1061/(asce)me.1943-5479.0000571. [Q1, SCI-E, 2021 IF 6.415]  
+[1]&nbsp;&nbsp;&nbsp;&nbsp;Zhang, H., Chi, S.\*, Yang, J., Nepal, M., and **Moon, S.** (2017). "Development of a Safety Inspection Framework on Construction Sites Using Mobile Computing." _Journal of Management in Engineering_, 33(3), 04016048. DOI: 10.1061/(ASCE)ME.1943-5479.0000495. [Q1, SCI-E, 2021 IF 6.415]  
 <div align='right'>
 *Corresponding Author
 </div>
@@ -84,7 +85,8 @@ Seoul National University, Seoul, South Korea
 
 ### Conference Proceedings
 
-[18]&nbsp;&nbsp;&nbsp;&nbsp;Kim, J., Chung, S., **Moon, S.**, and Chi, S. (2022). "Feasibility Study of a BERT-based Question Answering Chatbot for Information Retrieval from Construction Specifications." _International Conference on Industrial Engineering and Engineering Management (IEEM)_. [_Under Review_] - _submitted on 06/02/2022_  
+[19]&nbsp;&nbsp;&nbsp;&nbsp;Kim, J., Chung, S., **Moon, S.**, and Chi, S. (2022). "Feasibility Study of a BERT-based Question Answering Chatbot for Information Retrieval from Construction Specifications." _International Conference on Industrial Engineering and Engineering Management (IEEM)_. [_Accepted_] - _submitted on 06/02/2022_  
+[18]&nbsp;&nbsp;&nbsp;&nbsp;Hwang, J., Lee, G., **Moon, S.**, and Chi, S. (2022). "Real-time Estimation of Construction Site Particulate Matters Using Wind-applied Spatial Interpolation." 22nd International Conference on Construction Applications of Virtual Reality (CONVR), Seoul, South Korea.  
 [17]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Hwang, J., Chi, S.\*, and Rim, D. (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_, Aarhus, Denmark.  
 [16]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2021). "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method(DPPM)." _2021 KICEM Conference_, Gyeongju, South Korea.  
 [15]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chung, S., Lee, G., and Chi, S.\* (2021). "Provision Classification for Automated Construction Specification Review using Bidirectional Encoder Representations from Transformer (BERT)." _2021 KICEM Conference_, Gyeongju, South Korea.  
@@ -245,15 +247,14 @@ Graduate School of Engineering Practice, Seoul National University, South Korea 
 
 ## TEACHING EXPERIENCE
 
+2022&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
+Construction IT and Automation, Seoul National University
+
 2021&nbsp;&nbsp;&nbsp;&nbsp;**Text Mining Short Course**  
 Contract Review Automation, KEPCO International Nuclear Graduate School
 
 2020&nbsp;&nbsp;&nbsp;&nbsp;**Guest Lecturer**  
 Introduction to Civil and Environmental Engineering, Seoul National University
-
-2015 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Research Mentor**  
-Construction !nnovation Laboratory, Seoul National University
-15+ Graduate/Undergraduate Students, 10+ Research Projects, and 20+ Academic Papers
 
 2015 – 2021&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
 Construction Methods and Equipment, Seoul National University (2015, 2018, 2020, 2021)
@@ -267,8 +268,15 @@ Construction Information System Management, Seoul National University
 2017, 2022&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
 Construction Planning and Management, Seoul National University
 
+2016 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Machine Learning Short Course**  
+Construction !nnovation Lab.
+
+2015 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Research Mentor**  
+Construction !nnovation Laboratory, Seoul National University
+15+ Graduate/Undergraduate Students, 10+ Research Projects, and 20+ Academic Papers
+
 2011 – 2015&nbsp;&nbsp;&nbsp;&nbsp;**Mentor**  
-Service Teaching Program of Korean University Confederation "Gongsin"
+Educational Service Program of Korean University Confederation "Gongsin"
 
 ## PROFESSIONAL PRESENTATIONS AND WORKSHOPS
 
@@ -300,13 +308,16 @@ Department of Civil and Environmental Engineering, Seoul National University, Se
 
 ## Journal Review
 
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Buildings, SCI(E)
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Management in Engineering, SCI(E)
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Automation in Construction, SCI(E)
 - 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Machine Learning and Knowledge Extraction
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Energies
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Artificial Intelligence
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Sustainability
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Energies, SCI(E)
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Artificial Intelligence, SCI(E)
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Sustainability, SCI(E), SSCI
+- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics, SCI(E)
 - 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science
-- 2020 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering
+- 2020 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering, SCI(E)
 
 ## PROFESSIONAL CERTIFICATES AND TRAINING
 
@@ -328,11 +339,11 @@ Human Resources Development Service of Korea
 
 - Jae Hyun Hwang (09/2021 - _Present_) : Dust Mapping in Construction Site
 - Jungyeon Kim (01/2021 - _Present_) : Automated Question-Answering System for Construction Specification Review  
+- Seungmo Lim (07/2021 - _Present_) : 3D Mapping of Road Construction Site based on Unity; Construction Worker Monitoring based on Computer Vision  
 - Gitaek Lee (03/2017 - _Present_) : Reference Section Identification of Construction Specifications; Noise Mapping in Construction Site  
 - Taeyeon Chang (03/2017 - _Present_) : Infrastructure Maintenance and Management by Analyzing BMS Data)  
 - Sehwan Chung (03/2016 - _Present_) : Damage Mechanism Identification from Bridge Inspection Report Using Natural Language Processing  
 - Daeyoun Won (09/2016 - 08/2022) : UAV-based Road Construction Site Monitoring  
-- Seungmo Lim (07/2021 - 01/2022) : 3D Mapping of Road Construction Site based on Unity  
 - Heungsoon Choi (04/2021 - 02/2022) : Grid-based Construction Activity Navigation  
 - Sihoo Yoon (09/2020 - 08/2021) : Analysis of Emission Factor of Construction Equipment  
 - Geonwoo Kim (09/2018 - 08/2020) : Pre-trained Natural Language Processing Model in Construction Domain  
