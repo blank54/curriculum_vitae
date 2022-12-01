@@ -135,7 +135,10 @@ _**Software**_
 
 ### Artificial Intelligence and Digital Transformation
 
-09/2022 - 12/2024  
+12/2022 - 01/2024  
+**Development of Innovation Technology for Construction Safety**
+
+09/2022 - 11/2022  
 **Land and Infrastructure Safety Big Data Platform Project**  
 Mobigen (Consigned by Korea Authority of Land & Infrastructure Safety) ($425,000)
 
