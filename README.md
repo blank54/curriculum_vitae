@@ -26,40 +26,41 @@ Seoul National University
 
 ## EDUCATION
 
-**03/2015 – 08/2020**  
+**03/2015 - 08/2020**  
 **Ph.D.** in Civil and Environmental Engineering (Construction Management)  
 Seoul National University, Seoul, South Korea (Advisor: **Dr. Seokho Chi**)  
 **Dissertation**: "Automated Construction Specification Review based on Semantic Textual Analysis."
 
-**03/2011 – 02/2015**  
+**03/2011 - 02/2015**  
 **B.E.** in Industrial Engineering  
 Seoul National University, Seoul, South Korea
 
 ## PROFESSIONAL EXPERIENCE
 
-09/2020 – Present  
+09/2020 - Present  
 **Postdoctoral Research Fellow**, Construction !nnovation Laboratory, Seoul National University, Seoul, Korea
 
-09/2020 – Present  
+09/2020 - Present  
 **Senior Researcher**, Institute of Construction and Environmental Engineering, Seoul National University, Seoul, Korea
 
-09/2014 – 02/2015  
+09/2014 - 02/2015  
 **Undergraduate Internship**, Construction !nnovation Laboratory, Seoul National University, Seoul, South Korea
 
 ## HONORS AND AWARDS
 
+- 2022&nbsp;&nbsp;&nbsp;&nbsp;**KSARC Scholarship**, Korean Society of Automation and Robotics in Construction, Korea ($2,000)  
 - 2021&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2021 Convention "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method (DPPM)."  
 - 2019&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2019 Convention "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)."  
 - 2019&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korean Society of Road Engineers 2019 Convention "Automatic Comparative Analysis of Construction Specifications Using Text-mining Based on Artificial Intelligence."  
 - 2018&nbsp;&nbsp;&nbsp;&nbsp;**Special Award**, 2018 Seoul National University X-Corps Practice Research Team  
 - 2018&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korean Society of Civil Engineers 2018 Convention  "Non-compliance Specification Checking Based on Text-Mining Construction Standard Analysis."  
-- 2016 – 2020&nbsp;&nbsp;&nbsp;&nbsp;**Brain Korea 21 Scholarship**, Ministry of Education, Korea ($34,600)
+- 2016 - 2020&nbsp;&nbsp;&nbsp;&nbsp;**Brain Korea 21 Scholarship**, Ministry of Education, Korea ($34,600)
 
 ## PUBLICATIONS
 
 ### Refereed Journal Articles (International)
 
-[11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_. [_Accepted_, Q1, SCI-E, 2021 IF 6.415] - _submitted on 05/20/2022_  
+[11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_. [Q1, SCI-E, 2021 IF 6.415] - _accepted on 11/01/2022_  
 [10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, 142, 104465. DOI: 10.1016/j.autcon.2022.104465 [Q1, SCI-E, 2021 IF 10.517]  
 [9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. DOI: 10.1108/ECAM-10-2021-0920 [_Online Published_, Q2, SCI-E, 2021 IF 3.850]  
 [8]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 7.862]  
@@ -85,7 +86,7 @@ Seoul National University, Seoul, South Korea
 
 ### Conference Proceedings
 
-[19]&nbsp;&nbsp;&nbsp;&nbsp;Kim, J., Chung, S., **Moon, S.**, and Chi, S. (2022). "Feasibility Study of a BERT-based Question Answering Chatbot for Information Retrieval from Construction Specifications." _International Conference on Industrial Engineering and Engineering Management (IEEM)_. [_Accepted_] - _submitted on 06/02/2022_  
+[19]&nbsp;&nbsp;&nbsp;&nbsp;Kim, J., Chung, S., **Moon, S.**, and Chi, S. (2022). "Feasibility Study of a BERT-based Question Answering Chatbot for Information Retrieval from Construction Specifications." _International Conference on Industrial Engineering and Engineering Management (IEEM)_, Kuala Lumpur, Malaysia.  
 [18]&nbsp;&nbsp;&nbsp;&nbsp;Hwang, J., Lee, G., **Moon, S.**, and Chi, S. (2022). "Real-time Estimation of Construction Site Particulate Matters Using Wind-applied Spatial Interpolation." 22nd International Conference on Construction Applications of Virtual Reality (CONVR), Seoul, South Korea.  
 [17]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, Hwang, J., Chi, S.\*, and Rim, D. (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_, Aarhus, Denmark.  
 [16]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H., **Moon, S.**, and Chi, S.\* (2021). "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method(DPPM)." _2021 KICEM Conference_, Gyeongju, South Korea.  
@@ -134,63 +135,66 @@ _**Software**_
 ## RESEARCH PROJECTS (participated)
 
 ### Artificial Intelligence and Digital Transformation
+**Construction Specification Digitalization**  
+Project     : 2023.xx.xx. - 2023.xx.xx.  
+Participated: 2023.xx.xx. - 2023.xx.xx.
 
-12/2022 - 01/2024  
-**Development of Innovation Technology for Construction Safety**
-
-09/2022 - 11/2022  
-**Land and Infrastructure Safety Big Data Platform Project**  
-Mobigen (Consigned by Korea Authority of Land & Infrastructure Safety) ($425,000)
-
-04/2018 – 12/2019  
 **Developing AI Program for Analyzing Asphalt Pavement Specifications Based on Big Data**  
-Daewoo Institute of Construction Technology, South Korea ($85,000)
+**빅데이터 기반의 아스팔트포장 시방서 분석 AI 프로그램 개발**  
+Daewoo Institute of Construction Technology, South Korea ($85,000)  
+Project     : 2018.04.01. - 2019.12.31.  
+Participated: 2018.04.01. - 2019.12.31.
 
-03/2015 – 04/2017  
-**Developing Web Intelligence Systems of Construction Tacit Knowledge Based on Text Mining**  
-National Research Foundation of Korea ($150,813)
-
-06/2016 – 06/2018  
 **Deep-Learning-Based Information Service System to Support Life-cycle Risk Management of Construction Projects**  
-Korea Agency for Infrastructure Technology Advancement ($100,000)
+**건설 프로젝트 전주기 위험요인 관리 및 대응을 위한 딥러닝 기반 맞춤형 지식정보 서비스 시스템**  
+Korea Agency for Infrastructure Technology Advancement ($100,000)  
+Project     : 2016.06.24. - 2018.06.23.  
+Participated: 2016.06.24. - 2018.06.23.
 
 ### Smart Construction and Automation
-
-04/2022 - 02/2026  
-**Automated Development of Manual-Free Construction Standard Video Dataset and Multi-Camera Vision-based Site Monitoring**  
-National Research Foundation of Korea ($1,003,849)  
-
-04/2020 – 12/2025  
 **Smart Construction Technology Development Project through Field Operation on Roads: Development of Information Collection and Analysis Technology in Construction Site**  
-Korea Agency for Infrastructure Technology Advancement ($1,318,200)
+**도로실증을 위한 스마트 건설기술 개발 - 건설현장 정보 수집 및 분석 기술 개발**  
+Korea Agency for Infrastructure Technology Advancement ($1,318,200)  
+Project     : 2020.04.28. - 2026.02.28.  
+Participated: 2020.07.01. - _Present_
 
-04/2019 – 12/2021  
-**Automated DB-free Visual Analytics Platform for Enhancing Construction Productivity by 20%**  
-Korea Agency for Infrastructure Technology Advancement ($565,000)
+**Developing Web Intelligence Systems of Construction Tacit Knowledge Based on Text Mining**  
+National Research Foundation of Korea ($150,813)  
+Project     : 2014.05.01. - 2017.04.30.  
+Participated: 2015.03.01. - 2017.04.30.
 
 ### Project Risk Management
+**Development of Innovation Technology for Construction Safety**  
+**건설안전 혁신기술개발사업 기획**  
+Korea Agency for Infrastructure Technology Advancement ($200,000)  
+Project     : 2022.09.20. - 2024.03.19.  
+Participated: 2022.11.27. - _Present_
 
-04/2018 – 12/2018  
 **Analyzing Causes of Safety Accidents in the Metropolitan Road Construction Project**  
-Wooseok Construction, South Korea ($27,200)
+**광역도로 건설사업 안전사고 발생원인 분석**  
+Wooseok Construction, South Korea ($27,200)  
+Project     : 2018.03.13. - 2018.12.12.  
+Participated: 2018.03.13. - 2018.12.12.
 
-07/2014 – 03/2017  
 **Construction Information and Knowledge HUB Center**  
-Korea Agency for Infrastructure Technology Advancement ($990,000)
+Korea Agency for Infrastructure Technology Advancement ($990,000)  
+Project     : 2014.07.01. - 2017.03.31.
+Participated: 2015.04.01. - 2017.03.31.
 
-07/2014 – 03/2017  
 **Development of Decision Support System for Early Warning and Mitigation to Mega-Shock in International Construction Market**  
-National Research Foundation of Korea ($102,180)
+National Research Foundation of Korea ($102,180)  
+Participated: 2014.07.01. - 2017.03.31.
 
 ### Others
-
-04/2019 – 02/2024  
 **Smart Digital Engineering Education Program**  
-Korea Institute for Advancement of Technology ($1,650,000)
+Korea Institute for Advancement of Technology ($1,650,000)  
+Project     : 2019.03.01. - 2025.02.28.  
+Participated: 2020.01.01. - _Present_
 
-05/2018 – 12/2018  
 **2018 X-Corps Engineer Education Program with Hands-on Practices**  
-Graduate School of Engineering Practice, Seoul National University, South Korea ($7,000)
+Graduate School of Engineering Practice, Seoul National University, South Korea ($7,000)  
+Project     : 2018.03.01. - 2019.02.28.  
+Participated: 2018.03.01. - 2019.02.28.
 
 ## RELEVANT COURSEWORK
 
@@ -259,10 +263,10 @@ Contract Review Automation, KEPCO International Nuclear Graduate School
 2020&nbsp;&nbsp;&nbsp;&nbsp;**Guest Lecturer**  
 Introduction to Civil and Environmental Engineering, Seoul National University
 
-2015 – 2021&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
+2015 - 2021&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
 Construction Methods and Equipment, Seoul National University (2015, 2018, 2020, 2021)
 
-2015 – 2022&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
+2015 - 2022&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
 Civil and Environmental Project Management, Seoul National University (2015, 2016, 2018, 2022)
 
 2017&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**  
@@ -274,11 +278,11 @@ Construction Planning and Management, Seoul National University
 2016 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Machine Learning Short Course**  
 Construction !nnovation Lab.
 
-2015 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Research Mentor**  
+2015 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Research Mentor**  
 Construction !nnovation Laboratory, Seoul National University
 15+ Graduate/Undergraduate Students, 10+ Research Projects, and 20+ Academic Papers
 
-2011 – 2015&nbsp;&nbsp;&nbsp;&nbsp;**Mentor**  
+2011 - 2015&nbsp;&nbsp;&nbsp;&nbsp;**Mentor**  
 Educational Service Program of Korean University Confederation "Gongsin"
 
 ## PROFESSIONAL PRESENTATIONS AND WORKSHOPS
@@ -305,22 +309,22 @@ Department of Civil and Environmental Engineering, Seoul National University, Se
 
 ### Academic Society
 
-- 2021 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Automation and Robotics in Construction
-- 2016 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korea Institute of Construction Engineering and Management
-- 2015 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Civil Engineers
+- 2021 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Automation and Robotics in Construction
+- 2016 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korea Institute of Construction Engineering and Management
+- 2015 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Civil Engineers
 
 ## Journal Review
 
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Buildings, SCI(E)
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Management in Engineering, SCI(E)
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Automation in Construction, SCI(E)
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Machine Learning and Knowledge Extraction
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Energies, SCI(E)
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Artificial Intelligence, SCI(E)
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Sustainability, SCI(E), SSCI
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics, SCI(E)
-- 2022 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science
-- 2020 – Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering, SCI(E)
+- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Buildings, SCI(E)
+- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Management in Engineering, SCI(E)
+- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Automation in Construction, SCI(E)
+- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Machine Learning and Knowledge Extraction
+- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Energies, SCI(E)
+- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Artificial Intelligence, SCI(E)
+- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Sustainability, SCI(E), SSCI
+- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics, SCI(E)
+- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science
+- 2020 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering, SCI(E)
 
 ## PROFESSIONAL CERTIFICATES AND TRAINING
 
@@ -383,8 +387,8 @@ _I enjoy playing guitar and writing songs. To date, I have written fifteen songs
 - 2014&nbsp;&nbsp;&nbsp;&nbsp;**Room of choice**, _lyrics and music by Seonghyeon Moon_  
 - 2014&nbsp;&nbsp;&nbsp;&nbsp;**Psychology of Interpersonal Relations**, _lyrics and music by Seonghyeon Moon_  
 - 2013&nbsp;&nbsp;&nbsp;&nbsp;**Lost in memories**, A cheering song for students, _lyrics and music by Seonghyeon Moon_  
-- 2014 – 2016&nbsp;&nbsp;&nbsp;&nbsp;**Fuze 19th**, Fusion jazz and funky band of Seoul National University  
-- 2011 – 2015&nbsp;&nbsp;&nbsp;&nbsp;**Bbongs**, Student rock band of the Department of Industrial Engineering, Seoul National University  
+- 2014 - 2016&nbsp;&nbsp;&nbsp;&nbsp;**Fuze 19th**, Fusion jazz and funky band of Seoul National University  
+- 2011 - 2015&nbsp;&nbsp;&nbsp;&nbsp;**Bbongs**, Student rock band of the Department of Industrial Engineering, Seoul National University  
 
 ## REFERENCES
 
