@@ -135,10 +135,6 @@ _**Software**_
 ## RESEARCH PROJECTS (participated)
 
 ### Artificial Intelligence and Digital Transformation
-**Construction Specification Digitalization**  
-Project     : 2023.xx.xx. - 2023.xx.xx.  
-Participated: 2023.xx.xx. - 2023.xx.xx.
-
 **Developing AI Program for Analyzing Asphalt Pavement Specifications Based on Big Data**  
 **빅데이터 기반의 아스팔트포장 시방서 분석 AI 프로그램 개발**  
 Daewoo Institute of Construction Technology, South Korea ($85,000)  
@@ -340,11 +336,13 @@ Smart Digital Engineering Education and Training for Lead Engineer, Seoul Nation
 2013&nbsp;&nbsp;&nbsp;&nbsp;**Industrial Engineer Information Processing**  
 Human Resources Development Service of Korea
 
-## RESEARCH MENTOR
+## RESEARCH MENTOR @C!LAB
 
 ### Graduate Student
 
-- Jae Hyun Hwang (09/2021 - _Present_) : Dust Mapping in Construction Site
+- Haksoon Kim (01/2023 - _Present_) : Smart Construction and Automation  
+- Seok Tae Kim (01/2023 - _Present_) : Smart Construction and Automation  
+- Jae Hyun Hwang (09/2021 - _Present_) : Dust Mapping in Construction Site  
 - Jungyeon Kim (01/2021 - _Present_) : Automated Question-Answering System for Construction Specification Review  
 - Seungmo Lim (07/2021 - _Present_) : 3D Mapping of Road Construction Site based on Unity; Construction Worker Monitoring based on Computer Vision  
 - Gitaek Lee (03/2017 - _Present_) : Reference Section Identification of Construction Specifications; Noise Mapping in Construction Site  
@@ -352,7 +350,7 @@ Human Resources Development Service of Korea
 - Sehwan Chung (03/2016 - _Present_) : Damage Mechanism Identification from Bridge Inspection Report Using Natural Language Processing  
 - Daeyoun Won (09/2016 - 08/2022) : UAV-based Road Construction Site Monitoring  
 - Heungsoon Choi (04/2021 - 02/2022) : Grid-based Construction Activity Navigation  
-- Sihoo Yoon (09/2020 - 08/2021) : Analysis of Emission Factor of Construction Equipment  
+- Sihoo Yoon (09/2020 - _Present_) : Analysis of Emission Factor of Construction Equipment; Innovative Construction Safety Management  
 - Geonwoo Kim (09/2018 - 08/2020) : Pre-trained Natural Language Processing Model in Construction Domain  
 - Chanhyuk Park (09/2017 - 08/2019) : Text Mining on Non-conformance Report of Construction Site  
 - Jaeyoung Park (09/2016 - 08/2018) : Internal Communication Effectiveness Model of Construction Company  
@@ -361,7 +359,7 @@ Human Resources Development Service of Korea
 
 ### Undergraduate Student
 
-- Seongju Jang (07/2022 - 08/2022) : Construction Noise Filtering  
+- Seongju Jang (07/2022 - _Present_) : Construction Noise Filtering  
 - Seok Tae Kim (07/2022 - 08/2022) : Vibration Mapping in Construction Site  
 - Seongho Park (03/2022 - 04/2022) : Obstacle Detection of Construction Site Using UAV  
 - Soo Hyun Kim (02/2022 - 06/2022) : Noise Mapping in Construction Site Using Deep Learning  
