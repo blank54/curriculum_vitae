@@ -1,13 +1,12 @@
 # Seonghyeon Boris Moon, Ph.D.
 
-Ph.D. (Construction Management)  
-Postdoctoral Research Fellow @Department of Civil and Environmental Engineering  
-Senior Researcher @Institute of Construction and Environmental Engineering  
-Seoul National University
+Assistant Professor  
+Department of Industrial and Systems Engineering  
+Gyeongsang National University  
 
-35-427, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, South Korea  
-**T** +82 2 880 4146 | **M** +82 10 3054 1528  
-**E** blank54@snu.ac.kr | **G** github.com/blank54  
+401-222, 501 Jinju-daero, Jinju, Gyeongsangnam-do, South Korea (52828)  
+**T** +82 55 772 1706 | **M** +82 10 3054 1528  
+**E** moonsh@gnu.ac.kr | **G** github.com/blank54  
 **KRI** 1298 0388
 
 ---
@@ -15,8 +14,8 @@ Seoul National University
 ## RESEARCH INTERESTS
 
 - Artificial Intelligence and Digital Transformation  
-- Smart Construction and Automation  
-- Project Risk Management
+- Smart Systems and Automation  
+- Project Management
 
 ## TECHNICAL SPECIALIZATION
 
@@ -37,11 +36,14 @@ Seoul National University, Seoul, South Korea
 
 ## PROFESSIONAL EXPERIENCE
 
-09/2020 - Present  
-**Postdoctoral Research Fellow**, Construction !nnovation Laboratory, Seoul National University, Seoul, Korea
+03/2023 - _Present_  
+**Assistant Professor**, Gyeongsang National University, Jinju, Gyeongsangnam-do, South Korea
 
-09/2020 - Present  
-**Senior Researcher**, Institute of Construction and Environmental Engineering, Seoul National University, Seoul, Korea
+09/2020 - 02/2023  
+**Postdoctoral Research Fellow**, Construction !nnovation Laboratory, Seoul National University, Seoul, South Korea
+
+09/2020 - 02/2023  
+**Senior Researcher**, Institute of Construction and Environmental Engineering, Seoul National University, Seoul, South Korea
 
 09/2014 - 02/2015  
 **Undergraduate Internship**, Construction !nnovation Laboratory, Seoul National University, Seoul, South Korea
@@ -60,7 +62,7 @@ Seoul National University, Seoul, South Korea
 
 ### Refereed Journal Articles (International)
 
-[11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_. [Q1, SCI-E, 2021 IF 6.415] - _accepted on 11/01/2022_  
+[11]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_, 39(2), 04022079. DOI: 10.1061/JMENEA.MEENG-5089 [Q1, SCI-E, 2021 IF 6.415]  
 [10]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Contractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, 142, 104465. DOI: 10.1016/j.autcon.2022.104465 [Q1, SCI-E, 2021 IF 10.517]  
 [9]&nbsp;&nbsp;&nbsp;&nbsp;Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. DOI: 10.1108/ECAM-10-2021-0920 [_Online Published_, Q2, SCI-E, 2021 IF 3.850]  
 [8]&nbsp;&nbsp;&nbsp;&nbsp;**Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 7.862]  
@@ -113,7 +115,7 @@ Seoul National University, Seoul, South Korea
 
 _**Patent (Registered)**_
 
-[1]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H, Chi, S., and **Moon, S.** (2021. 5. 20.) "Construction Process Navigation Providing Method." (Korea, Publication No. 10-2315373)  
+[1]&nbsp;&nbsp;&nbsp;&nbsp;Choi, H, Chi, S., and **Moon, S.** (2021. 10. 14.) "Construction Process Navigation Providing Method." (Korea, Publication No. 10-2315373)  
 
 _**Patent (Under Review)**_
 
@@ -132,7 +134,9 @@ _**Software**_
 [2]&nbsp;&nbsp;&nbsp;&nbsp;Chi, S., Kim, T., and **Moon, S.** (2018. 5. 15.) "Semantic Search System for Risk Factor of Construction Accident" (Korea, Registration Number: C-2018-012345)  
 [1]&nbsp;&nbsp;&nbsp;&nbsp;Shin, S., Lee, H., Koh, H., Lee, B., Chi, S., Cho, J., Lee, S., Lee, B., You, S., **Moon, S.**, and Mok, S. (2017. 1. 15.) "Information Infrastructure of Global Construction Markets." (Republic of Korea, Registration Number: C-2017-001737)  
 
-## RESEARCH PROJECTS (participated)
+## RESEARCH PROJECTS (Ongoing)
+
+## RESEARCH PROJECTS (Terminated)
 
 ### Artificial Intelligence and Digital Transformation
 **Developing AI Program for Analyzing Asphalt Pavement Specifications Based on Big Data**  
@@ -152,7 +156,7 @@ Participated: 2016.06.24. - 2018.06.23.
 **도로실증을 위한 스마트 건설기술 개발 - 건설현장 정보 수집 및 분석 기술 개발**  
 Korea Agency for Infrastructure Technology Advancement ($1,318,200)  
 Project     : 2020.04.28. - 2026.02.28.  
-Participated: 2020.07.01. - _Present_
+Participated: 2020.07.01. - 2023.02.28.
 
 **Developing Web Intelligence Systems of Construction Tacit Knowledge Based on Text Mining**  
 National Research Foundation of Korea ($150,813)  
@@ -164,7 +168,7 @@ Participated: 2015.03.01. - 2017.04.30.
 **건설안전 혁신기술개발사업 기획**  
 Korea Agency for Infrastructure Technology Advancement ($200,000)  
 Project     : 2022.09.20. - 2024.03.19.  
-Participated: 2022.11.27. - _Present_
+Participated: 2022.11.27. - 2023.01.31.
 
 **Analyzing Causes of Safety Accidents in the Metropolitan Road Construction Project**  
 **광역도로 건설사업 안전사고 발생원인 분석**  
@@ -173,6 +177,7 @@ Project     : 2018.03.13. - 2018.12.12.
 Participated: 2018.03.13. - 2018.12.12.
 
 **Construction Information and Knowledge HUB Center**  
+**국토교통 지식정보 활용기반 구축**  
 Korea Agency for Infrastructure Technology Advancement ($990,000)  
 Project     : 2014.07.01. - 2017.03.31.
 Participated: 2015.04.01. - 2017.03.31.
@@ -185,7 +190,7 @@ Participated: 2014.07.01. - 2017.03.31.
 **Smart Digital Engineering Education Program**  
 Korea Institute for Advancement of Technology ($1,650,000)  
 Project     : 2019.03.01. - 2025.02.28.  
-Participated: 2020.01.01. - _Present_
+Participated: 2020.01.01. - 2023.01.31.
 
 **2018 X-Corps Engineer Education Program with Hands-on Practices**  
 Graduate School of Engineering Practice, Seoul National University, South Korea ($7,000)  
@@ -305,22 +310,23 @@ Department of Civil and Environmental Engineering, Seoul National University, Se
 
 ### Academic Society
 
-- 2021 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Automation and Robotics in Construction
-- 2016 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korea Institute of Construction Engineering and Management
-- 2015 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Civil Engineers
+- 2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Institute of Industrial Engineers
+- 2021 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Automation and Robotics in Construction
+- 2016 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korea Institute of Construction Engineering and Management
+- 2015 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Civil Engineers
 
 ## Journal Review
 
-- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Buildings, SCI(E)
-- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Management in Engineering, SCI(E)
-- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Automation in Construction, SCI(E)
-- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Machine Learning and Knowledge Extraction
-- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Energies, SCI(E)
-- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Artificial Intelligence, SCI(E)
-- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Sustainability, SCI(E), SSCI
-- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics, SCI(E)
-- 2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science
-- 2020 - Present&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering, SCI(E)
+- 2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Buildings, SCI(E)
+- 2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Management in Engineering, SCI(E)
+- 2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Automation in Construction, SCI(E)
+- 2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Machine Learning and Knowledge Extraction
+- 2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Energies, SCI(E)
+- 2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Artificial Intelligence, SCI(E)
+- 2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Sustainability, SCI(E), SSCI
+- 2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics, SCI(E)
+- 2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science
+- 2020 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering, SCI(E)
 
 ## PROFESSIONAL CERTIFICATES AND TRAINING
 
@@ -340,17 +346,17 @@ Human Resources Development Service of Korea
 
 ### Graduate Student
 
-- Haksoon Kim (01/2023 - _Present_) : Smart Construction and Automation  
-- Seok Tae Kim (01/2023 - _Present_) : Smart Construction and Automation  
-- Jae Hyun Hwang (09/2021 - _Present_) : Dust Mapping in Construction Site  
-- Jungyeon Kim (01/2021 - _Present_) : Automated Question-Answering System for Construction Specification Review  
-- Seungmo Lim (07/2021 - _Present_) : 3D Mapping of Road Construction Site based on Unity; Construction Worker Monitoring based on Computer Vision  
-- Gitaek Lee (03/2017 - _Present_) : Reference Section Identification of Construction Specifications; Noise Mapping in Construction Site  
-- Taeyeon Chang (03/2017 - _Present_) : Infrastructure Maintenance and Management by Analyzing BMS Data)  
-- Sehwan Chung (03/2016 - _Present_) : Damage Mechanism Identification from Bridge Inspection Report Using Natural Language Processing  
+- Haksoon Kim (01/2023 - 02/2023) : Smart Construction and Automation  
+- Seok Tae Kim (01/2023 - 02/2023) : Smart Construction and Automation  
+- Jae Hyun Hwang (09/2021 - 02/2023) : Dust Mapping in Construction Site  
+- Jungyeon Kim (01/2021 - 02/2023) : Automated Question-Answering System for Construction Specification Review  
+- Seungmo Lim (07/2021 - 02/2023) : 3D Mapping of Road Construction Site based on Unity; Construction Worker Monitoring based on Computer Vision  
+- Gitaek Lee (03/2017 - 02/2023) : Reference Section Identification of Construction Specifications; Noise Mapping in Construction Site  
+- Taeyeon Chang (03/2017 - 02/2023) : Infrastructure Maintenance and Management by Analyzing BMS Data)  
+- Sehwan Chung (03/2016 - 02/2023) : Damage Mechanism Identification from Bridge Inspection Report Using Natural Language Processing  
 - Daeyoun Won (09/2016 - 08/2022) : UAV-based Road Construction Site Monitoring  
 - Heungsoon Choi (04/2021 - 02/2022) : Grid-based Construction Activity Navigation  
-- Sihoo Yoon (09/2020 - _Present_) : Analysis of Emission Factor of Construction Equipment; Innovative Construction Safety Management  
+- Sihoo Yoon (09/2020 - 02/2023) : Analysis of Emission Factor of Construction Equipment; Innovative Construction Safety Management  
 - Geonwoo Kim (09/2018 - 08/2020) : Pre-trained Natural Language Processing Model in Construction Domain  
 - Chanhyuk Park (09/2017 - 08/2019) : Text Mining on Non-conformance Report of Construction Site  
 - Jaeyoung Park (09/2016 - 08/2018) : Internal Communication Effectiveness Model of Construction Company  
@@ -359,7 +365,7 @@ Human Resources Development Service of Korea
 
 ### Undergraduate Student
 
-- Seongju Jang (07/2022 - _Present_) : Construction Noise Filtering  
+- Seongju Jang (07/2022 - 02/2023) : Construction Noise Filtering  
 - Seok Tae Kim (07/2022 - 08/2022) : Vibration Mapping in Construction Site  
 - Seongho Park (03/2022 - 04/2022) : Obstacle Detection of Construction Site Using UAV  
 - Soo Hyun Kim (02/2022 - 06/2022) : Noise Mapping in Construction Site Using Deep Learning  
