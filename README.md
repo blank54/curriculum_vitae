@@ -159,6 +159,7 @@ Project     : 2020.04.28. - 2026.02.28.
 Participated: 2020.07.01. - 2023.02.28.
 
 **Developing Web Intelligence Systems of Construction Tacit Knowledge Based on Text Mining**  
+**텍스트마이닝 기반 건설 경험정보 웹 인텔리젼스 시스템 “Uni-Tacit” 개발**  
 National Research Foundation of Korea ($150,813)  
 Project     : 2014.05.01. - 2017.04.30.  
 Participated: 2015.03.01. - 2017.04.30.
@@ -183,16 +184,19 @@ Project     : 2014.07.01. - 2017.03.31.
 Participated: 2015.04.01. - 2017.03.31.
 
 **Development of Decision Support System for Early Warning and Mitigation to Mega-Shock in International Construction Market**  
+**해외건설시장 Mega-Shock 조기경보 및 대응을 위한 의사결정지원시스템 개발**  
 National Research Foundation of Korea ($102,180)  
 Participated: 2014.07.01. - 2017.03.31.
 
 ### Others
 **Smart Digital Engineering Education Program**  
+**스마트 디지털 엔지니어링 전문인력양성 사업**  
 Korea Institute for Advancement of Technology ($1,650,000)  
 Project     : 2019.03.01. - 2025.02.28.  
 Participated: 2020.01.01. - 2023.01.31.
 
 **2018 X-Corps Engineer Education Program with Hands-on Practices**  
+**2018 X-Corps 현장맞춤형 이공계 인재양성 지원사업: 건설현장 안전사고 위험요인 관리 및 대응을 위한 딥러닝 기반 지식정보 서비스 시스템**  
 Graduate School of Engineering Practice, Seoul National University, South Korea ($7,000)  
 Project     : 2018.03.01. - 2019.02.28.  
 Participated: 2018.03.01. - 2019.02.28.
